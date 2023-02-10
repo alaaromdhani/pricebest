@@ -335,7 +335,7 @@
   },
   {
     "id": 14,
-    "name": "Autres",
+    "name": "Autres pour cuisine",
     "hasSubCategory": false,
     "parent": 9,
     "links": []
@@ -434,7 +434,7 @@
   },
   {
     "id": 20,
-    "name": "Autres",
+    "name": "Autres Meuble",
     "hasSubCategory": false,
     "parent": 15,
     "links": []
@@ -2042,7 +2042,7 @@
   },
   {
     "id": 142,
-    "name": "Autres",
+    "name": "Autres Bagagerie",
     "hasSubCategory": false,
     "parent": 138,
     "links": []
@@ -2143,23 +2143,20 @@
     "links": [
       {
         "url": "https://www.spacenet.com/categorie/294-tricycle",
-        "type": "Vélos"
+        "type": "tricycle"
       },
-      {
-        "url": "https://www.spacenet.com/categorie/295-bicyclette-enfant",
-        "type": "Vélos"
-      },
+     
       {
         "url": "https://www.spacenet.com/categorie/296-bicyclette-adulte",
-        "type": "Vélos"
+        "type": "bicyclette"
       },
       {
         "url": "https://www.spacenet.com/categorie/596-trottinette",
-        "type": "Vélos"
+        "type": "trottinette"
       },
       {
         "url": "https://www.spacenet.com/categorie/564-accessoires-de-velo",
-        "type": "Vélos"
+        "type": "accessoires-de-velo"
       }
     ]
   },
@@ -2196,7 +2193,10 @@
     "name": "Compléments alimentaires",
     "hasSubCategory": false,
     "parent": 143,
-    "links": []
+    "links": [{
+      "url": "https://www.spacenet.com/categorie/604-complements-alimentaires",
+      "type": "Compléments alimentaires"
+    }]
   },
   {
     "id": 158,
@@ -2341,7 +2341,7 @@
       },
       {
         "url": "https://www.spacenet.com/categorie/444-hygiene",
-        "type": "Soins Personnels"
+        "type": "hygiene"
       }
     ]
   },
@@ -2525,34 +2525,31 @@
   },
   {
     "id": 187,
-    "name": "Autres",
+    "name": "Autres produis pour Beauté",
     "hasSubCategory": false,
     "parent": 158,
     "links": [
       {
         "url": "https://www.spacenet.com/categorie/468-pese-personne",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.spacenet.com/categorie/471-hygiene",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.spacenet.com/categorie/473-bavettes",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.spacenet.com/categorie/474-desinfectant",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.spacenet.com/categorie/521-equipement-medical",
-        "type": "Autres"
-      },
-      {
-        "url": "https://www.spacenet.com/categorie/604-complements-alimentaires",
-        "type": "Autres"
+        "type": "hygiene"
       }
+      
     ]
   },
   {
@@ -2654,7 +2651,10 @@
     "name": "Bicyclettes",
     "hasSubCategory": false,
     "parent": 198,
-    "links": []
+    "links": [ {
+      "url": "https://www.spacenet.com/categorie/295-bicyclette-enfant",
+      "type": "bicyclette"
+    }]
   },
   {
     "id": 1990,

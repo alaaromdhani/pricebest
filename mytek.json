@@ -220,7 +220,7 @@
   },
   {
     "id": 14,
-    "name": "Autres",
+    "name": "Autres pour cuisine",
     "hasSubCategory": false,
     "parent": 9,
     "links": []
@@ -327,7 +327,7 @@
   },
   {
     "id": 20,
-    "name": "Autres",
+    "name": "Autres Meuble",
     "hasSubCategory": false,
     "parent": 15,
     "links": []
@@ -575,7 +575,7 @@
   },
   {
     "id": 37,
-    "name": "Autres",
+    "name": "Autres accessoire pour maisons et bureaux",
     "hasSubCategory": false,
     "parent": 34,
     "links": []
@@ -2138,21 +2138,21 @@
   },
   {
     "id": 142,
-    "name": "Autres",
+    "name": "Autres Bagagerie",
     "hasSubCategory": false,
     "parent": 138,
     "links": [
       {
         "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/sac-a-gouter.html",
-        "type": "Autres"
+        "type": "Autres Bagagerie"
       },
       {
         "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/trousse.html",
-        "type": "Autres"
+        "type": "Autres Bagagerie"
       },
       {
         "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/accessoires-sac-a-dos.html",
-        "type": "Autres"
+        "type": "Autres Bagagerie"
       }
     ]
   },
@@ -2162,10 +2162,7 @@
     "hasSubCategory": true,
     "parent": 0,
     "links": [
-      {
-        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/trottinette.html",
-        "type": "Sport et loisirs"
-      },
+   
       {
         "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/hoverboard.html",
         "type": "Sport et loisirs"
@@ -2381,39 +2378,28 @@
     "links": [
       {
         "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/tricycles.html",
-        "type": "Vélos"
+        "type": "tricycles"
       },
-      {
-        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclette-enfant.html",
-        "type": "Vélos"
-      },
-      {
-        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-bmx.html",
-        "type": "Vélos"
-      },
-      {
-        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclette-electrique.html",
-        "type": "Vélos"
-      },
-      {
-        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-vtt.html",
-        "type": "Vélos"
-      },
+      
+      
+     
+    
       {
         "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/velo-de-route.html",
-        "type": "Vélos"
+        "type": "bicyclettes"
       },
-      {
-        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-city.html",
-        "type": "Vélos"
-      },
+      
       {
         "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/velo-pliant.html",
-        "type": "Vélos"
+        "type": "bicyclettes"
       },
       {
         "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/accessoires-velo.html",
-        "type": "Vélos"
+        "type": "bicyclettes"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/trottinette.html",
+        "type": "trottinette"
       }
     ]
   },
@@ -2422,28 +2408,40 @@
     "name": "Bicyclette éléctrique",
     "hasSubCategory": false,
     "parent": 152,
-    "links": []
+    "links": [ {
+      "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclette-electrique.html",
+      "type": "bicyclettes"
+    }]
   },
   {
     "id": 154,
     "name": "Bicyclette VTT",
     "hasSubCategory": false,
     "parent": 152,
-    "links": []
+    "links": [  {
+      "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-vtt.html",
+      "type": "bicyclettes"
+    }]
   },
   {
     "id": 155,
     "name": "Bicyclette Ville",
     "hasSubCategory": false,
     "parent": 152,
-    "links": []
+    "links": [{
+      "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-city.html",
+      "type": "bicyclettes"
+    }]
   },
   {
     "id": 156,
     "name": "Bicyclette BMX",
     "hasSubCategory": false,
     "parent": 152,
-    "links": []
+    "links": [{
+      "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-bmx.html",
+      "type": "bicyclettes"
+    }]
   },
   {
     "id": 157,
@@ -2749,69 +2747,69 @@
   },
   {
     "id": 187,
-    "name": "Autres",
+    "name": "Autres produis pour Beauté",
     "hasSubCategory": false,
     "parent": 158,
     "links": [
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/rangement-cosmetique.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/equipement-de-protection-individuelle.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/desinfectant.html",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/bavettes.html",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/pese-personne.html",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/thermometre.html",
-        "type": "Autres"
+        "type": "thermometre"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/tensiometre.html",
-        "type": "Autres"
+        "type": "tensiometre"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/hygiene-dentaire.html",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/appareil-respiratoire.html",
-        "type": "Autres"
+        "type": "appareil-respiratoire"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/hygrometre.html",
-        "type": "Autres"
+        "type": "hygrometre"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/sante/oxymetre-de-pouls.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/collier-cervical.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/membre-superieur.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/tronc-rachis.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       },
       {
         "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/membre-inferieur.html",
-        "type": "Autres"
+        "type": "Autres produis pour Beauté"
       }
     ]
   },
@@ -3052,29 +3050,32 @@
     "name": "Bicyclettes",
     "hasSubCategory": false,
     "parent": 198,
-    "links": []
+    "links": [{
+      "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclette-enfant.html",
+      "type": "bicyclette"
+    }]
   },
   {
     "id": 1990,
-    "name": "Autres",
+    "name": "Autres Jouets",
     "hasSubCategory": false,
     "parent": 198,
     "links": [
       {
         "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/blocs-et-lego.html",
-        "type": "Autres"
+        "type": "blocs-et-lego"
       },
       {
         "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/puzzle.html",
-        "type": "Autres"
+        "type": "puzzle"
       },
       {
         "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/blocs-et-lego.html",
-        "type": "Autres"
+        "type": "blocs-et-lego"
       },
       {
         "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/puzzle.html",
-        "type": "Autres"
+        "type": "puzzle"
       }
     ]
   },

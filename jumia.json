@@ -230,7 +230,7 @@
   },
   {
     "id": 14,
-    "name": "Autres",
+    "name": "Autres pour cuisine",
     "hasSubCategory": false,
     "parent": 9,
     "links": []
@@ -300,7 +300,7 @@
   },
   {
     "id": 20,
-    "name": "Autres",
+    "name": "Autres meubles",
     "hasSubCategory": false,
     "parent": 15,
     "links": []
@@ -576,15 +576,15 @@
     "parent": 8,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//serviettes-de-bain",
+        "url": "https://www.jumia.com.tn/serviettes-de-bain",
         "type": "Autres pour maison et bureau"
       },
       {
-        "url": "https://www.jumia.com.tn//maison-bureau-salle-bain",
+        "url": "https://www.jumia.com.tn/maison-bureau-salle-bain",
         "type": "Autres pour maison et bureau"
       },
       {
-        "url": "https://www.jumia.com.tn//maison-bureau-art-mural",
+        "url": "https://www.jumia.com.tn/maison-bureau-art-mural",
         "type": "Autres pour maison et bureau"
       }
     ]
@@ -596,7 +596,7 @@
     "parent": 34,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//mlp-cuisine-arts-culinaires/couverts-de-table",
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/couverts-de-table",
         "type": "Couettes et couvertures"
       }
     ]
@@ -610,13 +610,13 @@
   },
   {
     "id": 37,
-    "name": "Autres",
+    "name": "Autres accessoire pour maisons et bureaux",
     "hasSubCategory": false,
     "parent": 34,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//fers-vapeur",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/fers-vapeur",
+        "type": "Autres accessoire pour maisons et bureaux"
       }
     ]
   },
@@ -655,7 +655,7 @@
     "parent": 41,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//epicerie-chips-snacks-noix",
+        "url": "https://www.jumia.com.tn/epicerie-chips-snacks-noix",
         "type": "Ships et Snacks"
       }
     ]
@@ -667,7 +667,7 @@
     "parent": 41,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//biscuits",
+        "url": "https://www.jumia.com.tn/biscuits",
         "type": "Biscuits et Cookies"
       }
     ]
@@ -679,7 +679,7 @@
     "parent": 40,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//boissons-en-bouteille-boissons-energetiques",
+        "url": "https://www.jumia.com.tn/boissons-en-bouteille-boissons-energetiques",
         "type": "Boissons"
       }
     ]
@@ -691,7 +691,7 @@
     "parent": 44,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//boissons-en-bouteille-eau",
+        "url": "https://www.jumia.com.tn/boissons-en-bouteille-eau",
         "type": "Eau"
       }
     ]
@@ -703,7 +703,7 @@
     "parent": 44,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//boissons-en-bouteille-jus",
+        "url": "https://www.jumia.com.tn/boissons-en-bouteille-jus",
         "type": "Jus"
       }
     ]
@@ -722,11 +722,11 @@
     "parent": 44,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//cafe-the-cacao-cafe",
+        "url": "https://www.jumia.com.tn/cafe-the-cacao-cafe",
         "type": "Café et Thé"
       },
       {
-        "url": "https://www.jumia.com.tn//cafe-the-cacao-the",
+        "url": "https://www.jumia.com.tn/cafe-the-cacao-the",
         "type": "Café et Thé"
       }
     ]
@@ -738,11 +738,11 @@
     "parent": 40,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//healthy-1934",
+        "url": "https://www.jumia.com.tn/healthy-1934",
         "type": "Produits alimentaires"
       },
       {
-        "url": "https://www.jumia.com.tn//repas-de-bebe",
+        "url": "https://www.jumia.com.tn/repas-de-bebe",
         "type": "Produits alimentaires"
       }
     ]
@@ -754,11 +754,11 @@
     "parent": 49,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//epicerie-huiles-cuisson-vinaigres-sprays",
+        "url": "https://www.jumia.com.tn/epicerie-huiles-cuisson-vinaigres-sprays",
         "type": "Huile"
       },
       {
-        "url": "https://www.jumia.com.tn//k-huile-dolive-vierge",
+        "url": "https://www.jumia.com.tn/k-huile-dolive-vierge",
         "type": "Huile"
       }
     ]
@@ -770,7 +770,7 @@
     "parent": 49,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//epicerie-haricots-secs-cereales-riz",
+        "url": "https://www.jumia.com.tn/epicerie-haricots-secs-cereales-riz",
         "type": "Pate et Riz"
       }
     ]
@@ -782,19 +782,19 @@
     "parent": 40,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//epicerie-detachage",
+        "url": "https://www.jumia.com.tn/epicerie-detachage",
         "type": "Nettoyage"
       },
       {
-        "url": "https://www.jumia.com.tn//epicerie-detergent-liquide",
+        "url": "https://www.jumia.com.tn/epicerie-detergent-liquide",
         "type": "Nettoyage"
       },
       {
-        "url": "https://www.jumia.com.tn//epicerie-detergent-en-poudre",
+        "url": "https://www.jumia.com.tn/epicerie-detergent-en-poudre",
         "type": "Nettoyage"
       },
       {
-        "url": "https://www.jumia.com.tn//k-eau-de-javel",
+        "url": "https://www.jumia.com.tn/k-eau-de-javel",
         "type": "Nettoyage"
       }
     ]
@@ -806,7 +806,7 @@
     "parent": 52,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//epicerie-nettoyeurs-cuisine",
+        "url": "https://www.jumia.com.tn/epicerie-nettoyeurs-cuisine",
         "type": "Nettoyage de cuisine"
       }
     ]
@@ -825,11 +825,11 @@
     "parent": 52,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//accessoires-de-nettoyage",
+        "url": "https://www.jumia.com.tn/accessoires-de-nettoyage",
         "type": "Outils de nettoyage"
       },
       {
-        "url": "https://www.jumia.com.tn//k-gant-latex",
+        "url": "https://www.jumia.com.tn/k-gant-latex",
         "type": "Outils de nettoyage"
       }
     ]
@@ -848,51 +848,51 @@
     "parent": 56,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//ordinateurs-tablettes-ordinateurs-portables-traditionnels/hp",
+        "url": "https://www.jumia.com.tn/ordinateurs-tablettes-ordinateurs-portables-traditionnels/hp",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//ordinateurs-tablettes-ordinateurs-portables-traditionnels/asus",
+        "url": "https://www.jumia.com.tn/ordinateurs-tablettes-ordinateurs-portables-traditionnels/asus",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//ordinateurs-tablettes-ordinateurs-portables-traditionnels/dell",
+        "url": "https://www.jumia.com.tn/ordinateurs-tablettes-ordinateurs-portables-traditionnels/dell",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//hp-15",
+        "url": "https://www.jumia.com.tn/hp-15",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//hp-pavilion",
+        "url": "https://www.jumia.com.tn/hp-pavilion",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//hp-envy",
+        "url": "https://www.jumia.com.tn/hp-envy",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//dell-inspiron",
+        "url": "https://www.jumia.com.tn/dell-inspiron",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//asus-vivobook",
+        "url": "https://www.jumia.com.tn/asus-vivobook",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//hp-laserjet",
+        "url": "https://www.jumia.com.tn/hp-laserjet",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//asus",
+        "url": "https://www.jumia.com.tn/asus",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//msi",
+        "url": "https://www.jumia.com.tn/msi",
         "type": "Ordinateur"
       },
       {
-        "url": "https://www.jumia.com.tn//hp",
+        "url": "https://www.jumia.com.tn/hp",
         "type": "Ordinateur"
       }
     ]
@@ -904,7 +904,7 @@
     "parent": 57,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//pc-portables",
+        "url": "https://www.jumia.com.tn/pc-portables",
         "type": "Pc Portable"
       }
     ]
@@ -916,7 +916,7 @@
     "parent": 57,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//informatique-ordinateurs-fixes",
+        "url": "https://www.jumia.com.tn/informatique-ordinateurs-fixes",
         "type": "Pc Fixe"
       }
     ]
@@ -1025,7 +1025,7 @@
     "parent": 67,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//cles-usb",
+        "url": "https://www.jumia.com.tn/cles-usb",
         "type": "Flash disque"
       }
     ]
@@ -1037,7 +1037,7 @@
     "parent": 67,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//telephones-tablettes-cartes-microsd",
+        "url": "https://www.jumia.com.tn/telephones-tablettes-cartes-microsd",
         "type": "Carte mémoire"
       }
     ]
@@ -1056,7 +1056,7 @@
     "parent": 71,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//imprimantes-pc",
+        "url": "https://www.jumia.com.tn/imprimantes-pc",
         "type": "imprimante"
       }
     ]
@@ -1068,7 +1068,7 @@
     "parent": 71,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//scanner",
+        "url": "https://www.jumia.com.tn/scanner",
         "type": "Scanner"
       }
     ]
@@ -1080,7 +1080,7 @@
     "parent": 71,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//ordinateurs-accessoires-informatique/?q=cartouches+d%27encres",
+        "url": "https://www.jumia.com.tn/ordinateurs-accessoires-informatique/?q=cartouches+d%27encres",
         "type": "Cartouches d'encre"
       }
     ]
@@ -1106,127 +1106,127 @@
     "parent": 76,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//samsung-clear-view",
+        "url": "https://www.jumia.com.tn/samsung-clear-view",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-oppo-reno-5",
+        "url": "https://www.jumia.com.tn/mlp-oppo-reno-5",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-samsung-a52s",
+        "url": "https://www.jumia.com.tn/mlp-samsung-a52s",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-xiaomi-11t",
+        "url": "https://www.jumia.com.tn/mlp-xiaomi-11t",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-infinix-hot-11",
+        "url": "https://www.jumia.com.tn/mlp-infinix-hot-11",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-infinix-hot-11",
+        "url": "https://www.jumia.com.tn/mlp-infinix-hot-11",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-boutique-samsung",
+        "url": "https://www.jumia.com.tn/mlp-boutique-samsung",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//apple",
+        "url": "https://www.jumia.com.tn/apple",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//infinix",
+        "url": "https://www.jumia.com.tn/infinix",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//xiaomi",
+        "url": "https://www.jumia.com.tn/xiaomi",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//huawei",
+        "url": "https://www.jumia.com.tn/huawei",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//telephone-tablette/evertek",
+        "url": "https://www.jumia.com.tn/telephone-tablette/evertek",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//telephone-tablette/nokia",
+        "url": "https://www.jumia.com.tn/telephone-tablette/nokia",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-infinix-smart-6",
+        "url": "https://www.jumia.com.tn/mlp-infinix-smart-6",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-infinix-hot-11",
+        "url": "https://www.jumia.com.tn/mlp-infinix-hot-11",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-xiaomi-redmi-9a",
+        "url": "https://www.jumia.com.tn/mlp-xiaomi-redmi-9a",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-xiaomi-note-11",
+        "url": "https://www.jumia.com.tn/mlp-xiaomi-note-11",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-samsung-a02",
+        "url": "https://www.jumia.com.tn/mlp-samsung-a02",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-samsung-a12",
+        "url": "https://www.jumia.com.tn/mlp-samsung-a12",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-samsung-a32",
+        "url": "https://www.jumia.com.tn/mlp-samsung-a32",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-samsung-a52",
+        "url": "https://www.jumia.com.tn/mlp-samsung-a52",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-samsung-m52",
+        "url": "https://www.jumia.com.tn/mlp-samsung-m52",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-iphone-13",
+        "url": "https://www.jumia.com.tn/mlp-iphone-13",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-apple-iphone-13-pro",
+        "url": "https://www.jumia.com.tn/mlp-apple-iphone-13-pro",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-huawei-y5p",
+        "url": "https://www.jumia.com.tn/mlp-huawei-y5p",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-oppo-reno-5",
+        "url": "https://www.jumia.com.tn/mlp-oppo-reno-5",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-huawei-y60",
+        "url": "https://www.jumia.com.tn/mlp-huawei-y60",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-oppo-a53",
+        "url": "https://www.jumia.com.tn/mlp-oppo-a53",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-zte-a51",
+        "url": "https://www.jumia.com.tn/mlp-zte-a51",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-huawei-nova-8i",
+        "url": "https://www.jumia.com.tn/mlp-huawei-nova-8i",
         "type": "Smartphones"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-redmi-poco-x3",
+        "url": "https://www.jumia.com.tn/mlp-redmi-poco-x3",
         "type": "Smartphones"
       }
     ]
@@ -1238,7 +1238,7 @@
     "parent": 76,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//telephones-portables",
+        "url": "https://www.jumia.com.tn/telephones-portables",
         "type": "Téléphone basic"
       }
     ]
@@ -1250,7 +1250,7 @@
     "parent": 75,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//tablettes-tactiles",
+        "url": "https://www.jumia.com.tn/tablettes-tactiles",
         "type": "Tablettes"
       }
     ]
@@ -1269,7 +1269,7 @@
     "parent": 79,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//telephones-tablettes-accessoires-tablette",
+        "url": "https://www.jumia.com.tn/telephones-tablettes-accessoires-tablette",
         "type": "Accessoires Tablettes"
       }
     ]
@@ -1281,7 +1281,7 @@
     "parent": 75,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//telephones-tablettes-etuis-clips",
+        "url": "https://www.jumia.com.tn/telephones-tablettes-etuis-clips",
         "type": "Accessoires pour téléphone et tablette"
       }
     ]
@@ -1293,7 +1293,7 @@
     "parent": 82,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//montres-connectees",
+        "url": "https://www.jumia.com.tn/montres-connectees",
         "type": "Smartwatch"
       }
     ]
@@ -1312,7 +1312,7 @@
     "parent": 82,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//telephones-tablettes-ecouteur-jack-pierce",
+        "url": "https://www.jumia.com.tn/telephones-tablettes-ecouteur-jack-pierce",
         "type": "Casques et écouteurs"
       }
     ]
@@ -1324,7 +1324,7 @@
     "parent": 82,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//power-banks",
+        "url": "https://www.jumia.com.tn/power-banks",
         "type": "Power Banque"
       }
     ]
@@ -1343,43 +1343,43 @@
     "parent": 0,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//electronique/samsung",
+        "url": "https://www.jumia.com.tn/electronique/samsung",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/saba",
+        "url": "https://www.jumia.com.tn/electronique/saba",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/condor",
+        "url": "https://www.jumia.com.tn/electronique/condor",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/tcl",
+        "url": "https://www.jumia.com.tn/electronique/tcl",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/vega",
+        "url": "https://www.jumia.com.tn/electronique/vega",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/-telefunken",
+        "url": "https://www.jumia.com.tn/electronique/-telefunken",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/samsat",
+        "url": "https://www.jumia.com.tn/electronique/samsat",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/bein",
+        "url": "https://www.jumia.com.tn/electronique/bein",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/sony",
+        "url": "https://www.jumia.com.tn/electronique/sony",
         "type": "Electronique"
       },
       {
-        "url": "https://www.jumia.com.tn//sony",
+        "url": "https://www.jumia.com.tn/sony",
         "type": "Electronique"
       }
     ]
@@ -1391,39 +1391,39 @@
     "parent": 88,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//tv-curved",
+        "url": "https://www.jumia.com.tn/tv-curved",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//tvs/?q=32\"",
+        "url": "https://www.jumia.com.tn/tvs/?q=32\"",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//tvs/?q=40\"",
+        "url": "https://www.jumia.com.tn/tvs/?q=40\"",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//tvs/?q=43\"",
+        "url": "https://www.jumia.com.tn/tvs/?q=43\"",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//tvs/?q=55\"",
+        "url": "https://www.jumia.com.tn/tvs/?q=55\"",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique-television-par-satellite",
+        "url": "https://www.jumia.com.tn/electronique-television-par-satellite",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//connectiques",
+        "url": "https://www.jumia.com.tn/connectiques",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//accessoires-audio-video-stands-tv",
+        "url": "https://www.jumia.com.tn/accessoires-audio-video-stands-tv",
         "type": "Télévisions"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique-lecteurs-enregistreurs-dvd",
+        "url": "https://www.jumia.com.tn/electronique-lecteurs-enregistreurs-dvd",
         "type": "Télévisions"
       }
     ]
@@ -1435,7 +1435,7 @@
     "parent": 89,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//smart-tv",
+        "url": "https://www.jumia.com.tn/smart-tv",
         "type": "Smart TV"
       }
     ]
@@ -1447,7 +1447,7 @@
     "parent": 89,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//tvs-3d",
+        "url": "https://www.jumia.com.tn/tvs-3d",
         "type": "TV Led"
       }
     ]
@@ -1459,7 +1459,7 @@
     "parent": 89,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//tv-4k",
+        "url": "https://www.jumia.com.tn/tv-4k",
         "type": "TV 4K"
       }
     ]
@@ -1471,19 +1471,19 @@
     "parent": 88,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//electronique-audio-portable",
+        "url": "https://www.jumia.com.tn/electronique-audio-portable",
         "type": "Audio"
       },
       {
-        "url": "https://www.jumia.com.tn//radios",
+        "url": "https://www.jumia.com.tn/radios",
         "type": "Audio"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique-accessoires-audio",
+        "url": "https://www.jumia.com.tn/electronique-accessoires-audio",
         "type": "Audio"
       },
       {
-        "url": "https://www.jumia.com.tn//electronique/jbl",
+        "url": "https://www.jumia.com.tn/electronique/jbl",
         "type": "Audio"
       }
     ]
@@ -1495,7 +1495,7 @@
     "parent": 93,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//enceintes",
+        "url": "https://www.jumia.com.tn/enceintes",
         "type": "Haut-parleur"
       }
     ]
@@ -1521,7 +1521,7 @@
     "parent": 93,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//telephones-tablettes-ecouteur-jack-pierce",
+        "url": "https://www.jumia.com.tn/telephones-tablettes-ecouteur-jack-pierce",
         "type": "Ecouteurs"
       }
     ]
@@ -1533,7 +1533,7 @@
     "parent": 88,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//photographie-sous-marine",
+        "url": "https://www.jumia.com.tn/photographie-sous-marine",
         "type": "Appareils photos"
       }
     ]
@@ -1545,7 +1545,7 @@
     "parent": 98,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//cameras-digitales",
+        "url": "https://www.jumia.com.tn/cameras-digitales",
         "type": "Caméras digitales"
       }
     ]
@@ -1587,11 +1587,11 @@
     "parent": 102,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//jeux-video-jeux-video/?q=ps4",
+        "url": "https://www.jumia.com.tn/jeux-video-jeux-video/?q=ps4",
         "type": "Jeux vidéo"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-fifa-22",
+        "url": "https://www.jumia.com.tn/mlp-fifa-22",
         "type": "Jeux vidéo"
       }
     ]
@@ -1603,15 +1603,15 @@
     "parent": 102,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//jeux-videos-consoles/?q=manette+ps3",
+        "url": "https://www.jumia.com.tn/jeux-videos-consoles/?q=manette+ps3",
         "type": "Manettes"
       },
       {
-        "url": "https://www.jumia.com.tn//manette-ps4",
+        "url": "https://www.jumia.com.tn/manette-ps4",
         "type": "Manettes"
       },
       {
-        "url": "https://www.jumia.com.tn//jeux-videos-consoles/?q=manette+pc",
+        "url": "https://www.jumia.com.tn/jeux-videos-consoles/?q=manette+pc",
         "type": "Manettes"
       }
     ]
@@ -1654,7 +1654,7 @@
     "parent": 106,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//confort-personnalisation",
+        "url": "https://www.jumia.com.tn/confort-personnalisation",
         "type": "Entretien des voitures"
       }
     ]
@@ -1680,11 +1680,11 @@
     "parent": 106,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//equipement-interieur",
+        "url": "https://www.jumia.com.tn/equipement-interieur",
         "type": "Accessoires pour Automobile et Moto"
       },
       {
-        "url": "https://www.jumia.com.tn//accessoires-d-automobiles",
+        "url": "https://www.jumia.com.tn/accessoires-d-automobiles",
         "type": "Accessoires pour Automobile et Moto"
       }
     ]
@@ -1738,31 +1738,31 @@
     "parent": 0,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//chaussures-garcon",
+        "url": "https://www.jumia.com.tn/chaussures-garcon",
         "type": "Mode"
       },
       {
-        "url": "https://www.jumia.com.tn//vetements-garcon",
+        "url": "https://www.jumia.com.tn/vetements-garcon",
         "type": "Mode"
       },
       {
-        "url": "https://www.jumia.com.tn//accessoires-garcon",
+        "url": "https://www.jumia.com.tn/accessoires-garcon",
         "type": "Mode"
       },
       {
-        "url": "https://www.jumia.com.tn//chaussures-filles",
+        "url": "https://www.jumia.com.tn/chaussures-filles",
         "type": "Mode"
       },
       {
-        "url": "https://www.jumia.com.tn//vetement-fille",
+        "url": "https://www.jumia.com.tn/vetement-fille",
         "type": "Mode"
       },
       {
-        "url": "https://www.jumia.com.tn//accessoires-fille",
+        "url": "https://www.jumia.com.tn/accessoires-fille",
         "type": "Mode"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-boutique-raymond-weil",
+        "url": "https://www.jumia.com.tn/mlp-boutique-raymond-weil",
         "type": "Mode"
       }
     ]
@@ -1774,7 +1774,7 @@
     "parent": 117,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vetements-homme-sweat-capuche-sweat-shirts",
+        "url": "https://www.jumia.com.tn/vetements-homme-sweat-capuche-sweat-shirts",
         "type": "Mode homme"
       }
     ]
@@ -1786,7 +1786,7 @@
     "parent": 118,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//manteaux-hommes",
+        "url": "https://www.jumia.com.tn/manteaux-hommes",
         "type": "Vestes et Mantaux"
       }
     ]
@@ -1819,7 +1819,7 @@
     "parent": 118,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//pulls-gilets-hommes",
+        "url": "https://www.jumia.com.tn/pulls-gilets-hommes",
         "type": "Pulls et Gilets"
       }
     ]
@@ -1831,11 +1831,11 @@
     "parent": 118,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vetements-hommes-pantalons",
+        "url": "https://www.jumia.com.tn/vetements-hommes-pantalons",
         "type": "Pantalons et Jeans"
       },
       {
-        "url": "https://www.jumia.com.tn//jeans-homme",
+        "url": "https://www.jumia.com.tn/jeans-homme",
         "type": "Pantalons et Jeans"
       }
     ]
@@ -1854,23 +1854,23 @@
     "parent": 118,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//boots-hommes",
+        "url": "https://www.jumia.com.tn/boots-hommes",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//chaussures-de-sport",
+        "url": "https://www.jumia.com.tn/chaussures-de-sport",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//baskets-de-ville",
+        "url": "https://www.jumia.com.tn/baskets-de-ville",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//derbies",
+        "url": "https://www.jumia.com.tn/derbies",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//mocassins-chaussures-bateau-hommes",
+        "url": "https://www.jumia.com.tn/mocassins-chaussures-bateau-hommes",
         "type": "Chaussures"
       }
     ]
@@ -1882,15 +1882,15 @@
     "parent": 118,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//mode-montres-homme",
+        "url": "https://www.jumia.com.tn/mode-montres-homme",
         "type": "Accessoires mode homme"
       },
       {
-        "url": "https://www.jumia.com.tn//bijoux-homme",
+        "url": "https://www.jumia.com.tn/bijoux-homme",
         "type": "Accessoires mode homme"
       },
       {
-        "url": "https://www.jumia.com.tn//homme-optique",
+        "url": "https://www.jumia.com.tn/homme-optique",
         "type": "Accessoires mode homme"
       }
     ]
@@ -1902,7 +1902,7 @@
     "parent": 117,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vetements-mode-hoodies-sweat-shirts",
+        "url": "https://www.jumia.com.tn/vetements-mode-hoodies-sweat-shirts",
         "type": "Mode femme"
       }
     ]
@@ -1914,7 +1914,7 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vestes-manteaux-blousons",
+        "url": "https://www.jumia.com.tn/vestes-manteaux-blousons",
         "type": "Vestes et Manteaux"
       }
     ]
@@ -1926,7 +1926,7 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//pulls-gilets",
+        "url": "https://www.jumia.com.tn/pulls-gilets",
         "type": "Pulls, Gilets et Sweat"
       }
     ]
@@ -1938,7 +1938,7 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//robes-femme",
+        "url": "https://www.jumia.com.tn/robes-femme",
         "type": "Robes"
       }
     ]
@@ -1950,7 +1950,7 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//jupes",
+        "url": "https://www.jumia.com.tn/jupes",
         "type": "Jupes"
       }
     ]
@@ -1962,7 +1962,7 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//ensembles-combinaisons",
+        "url": "https://www.jumia.com.tn/ensembles-combinaisons",
         "type": "Combinaisons et Ensembles"
       }
     ]
@@ -1974,7 +1974,7 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//chaussettes-femmes",
+        "url": "https://www.jumia.com.tn/chaussettes-femmes",
         "type": "Chaussettes, Bas et Colons"
       }
     ]
@@ -1993,19 +1993,19 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//bottes-femmes",
+        "url": "https://www.jumia.com.tn/bottes-femmes",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//baskets-femmes",
+        "url": "https://www.jumia.com.tn/baskets-femmes",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//escarpins-femmes",
+        "url": "https://www.jumia.com.tn/escarpins-femmes",
         "type": "Chaussures"
       },
       {
-        "url": "https://www.jumia.com.tn//chaussons-pantoufles-femme",
+        "url": "https://www.jumia.com.tn/chaussons-pantoufles-femme",
         "type": "Chaussures"
       }
     ]
@@ -2017,11 +2017,11 @@
     "parent": 128,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//mode-montres-femme",
+        "url": "https://www.jumia.com.tn/mode-montres-femme",
         "type": "Accessoires mode femme"
       },
       {
-        "url": "https://www.jumia.com.tn//bijoux-femme",
+        "url": "https://www.jumia.com.tn/bijoux-femme",
         "type": "Accessoires mode femme"
       }
     ]
@@ -2040,7 +2040,7 @@
     "parent": 138,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//valises-de-voyage",
+        "url": "https://www.jumia.com.tn/valises-de-voyage",
         "type": "Valises"
       }
     ]
@@ -2052,7 +2052,7 @@
     "parent": 138,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//sac-a-dos",
+        "url": "https://www.jumia.com.tn/sac-a-dos",
         "type": "Sac à Dos"
       }
     ]
@@ -2064,24 +2064,24 @@
     "parent": 138,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//maroquinerie",
+        "url": "https://www.jumia.com.tn/maroquinerie",
         "type": "Sac et Pochettes"
       }
     ]
   },
   {
     "id": 142,
-    "name": "Autres",
+    "name": "Autres Bagagerie",
     "hasSubCategory": false,
     "parent": 138,
     "links": [
       {
         "url": "https://www.jumia.com.tn/coussin-voyage",
-        "type": "Autres"
+        "type": "Autres Bagagerie"
       },
       {
-        "url": "https://www.jumia.com.tn//sac-de-plage",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/sac-de-plage",
+        "type": "Autres Bagagerie"
       }
     ]
   },
@@ -2092,11 +2092,11 @@
     "parent": 0,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//tentes-couchages",
+        "url": "https://www.jumia.com.tn/tentes-couchages",
         "type": "Sport et loisirs"
       },
       {
-        "url": "https://www.jumia.com.tn//dainese",
+        "url": "https://www.jumia.com.tn/dainese",
         "type": "Sport et loisirs"
       }
     ]
@@ -2108,27 +2108,27 @@
     "parent": 143,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//exercice-remise-en-forme",
+        "url": "https://www.jumia.com.tn/exercice-remise-en-forme",
         "type": "Sport et Fitness"
       },
       {
-        "url": "https://www.jumia.com.tn//musculations",
+        "url": "https://www.jumia.com.tn/musculations",
         "type": "Sport et Fitness"
       },
       {
-        "url": "https://www.jumia.com.tn//sports-loisirs/?q=football",
+        "url": "https://www.jumia.com.tn/sports-loisirs/?q=football",
         "type": "Sport et Fitness"
       },
       {
-        "url": "https://www.jumia.com.tn//piscine-et-mer",
+        "url": "https://www.jumia.com.tn/piscine-et-mer",
         "type": "Sport et Fitness"
       },
       {
-        "url": "https://www.jumia.com.tn//boxe-kick-boxing",
+        "url": "https://www.jumia.com.tn/boxe-kick-boxing",
         "type": "Sport et Fitness"
       },
       {
-        "url": "https://www.jumia.com.tn//sports-loisirs/?q=yoga",
+        "url": "https://www.jumia.com.tn/sports-loisirs/?q=yoga",
         "type": "Sport et Fitness"
       }
     ]
@@ -2154,7 +2154,7 @@
     "parent": 146,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vetements-mode-active",
+        "url": "https://www.jumia.com.tn/vetements-mode-active",
         "type": "Homme"
       }
     ]
@@ -2166,7 +2166,7 @@
     "parent": 146,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vetements-active",
+        "url": "https://www.jumia.com.tn/vetements-active",
         "type": "Femme"
       }
     ]
@@ -2185,7 +2185,7 @@
     "parent": 149,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//espadrilles-diesel",
+        "url": "https://www.jumia.com.tn/espadrilles-diesel",
         "type": "Homme"
       }
     ]
@@ -2197,7 +2197,7 @@
     "parent": 149,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//baskets-femmes",
+        "url": "https://www.jumia.com.tn/baskets-femmes",
         "type": "Femme"
       }
     ]
@@ -2209,7 +2209,7 @@
     "parent": 143,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//sports-loisirs/?q=velo",
+        "url": "https://www.jumia.com.tn/sports-loisirs/?q=velo",
         "type": "Vélos"
       }
     ]
@@ -2249,15 +2249,15 @@
     "parent": 143,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//nutrition",
+        "url": "https://www.jumia.com.tn/nutrition",
         "type": "Compléments alimentaires"
       },
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-proteine",
+        "url": "https://www.jumia.com.tn/sante-beaute-proteine",
         "type": "Compléments alimentaires"
       },
       {
-        "url": "https://www.jumia.com.tn//muscle-tech",
+        "url": "https://www.jumia.com.tn/muscle-tech",
         "type": "Compléments alimentaires"
       }
     ]
@@ -2283,15 +2283,15 @@
     "parent": 159,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//produits-maquillage-visage",
+        "url": "https://www.jumia.com.tn/produits-maquillage-visage",
         "type": "Visage"
       },
       {
-        "url": "https://www.jumia.com.tn//produits-maquillage-visage",
+        "url": "https://www.jumia.com.tn/produits-maquillage-visage",
         "type": "Visage"
       },
       {
-        "url": "https://www.jumia.com.tn//anti-cernes",
+        "url": "https://www.jumia.com.tn/anti-cernes",
         "type": "Visage"
       }
     ]
@@ -2310,7 +2310,7 @@
     "parent": 159,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//produits-maquillage-yeux",
+        "url": "https://www.jumia.com.tn/produits-maquillage-yeux",
         "type": "Maquillage yeux"
       }
     ]
@@ -2322,7 +2322,7 @@
     "parent": 159,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//rouge-a-levres",
+        "url": "https://www.jumia.com.tn/rouge-a-levres",
         "type": "Rouge à lévre"
       }
     ]
@@ -2334,7 +2334,7 @@
     "parent": 159,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//vernis-a-ongles",
+        "url": "https://www.jumia.com.tn/vernis-a-ongles",
         "type": "Vernis"
       }
     ]
@@ -2353,7 +2353,7 @@
     "parent": 159,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//accessoires-maquillage",
+        "url": "https://www.jumia.com.tn/accessoires-maquillage",
         "type": "Accessoires Maquillages"
       }
     ]
@@ -2365,7 +2365,7 @@
     "parent": 159,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//coffret-maquillage",
+        "url": "https://www.jumia.com.tn/coffret-maquillage",
         "type": "Palette de maquillage"
       }
     ]
@@ -2377,7 +2377,7 @@
     "parent": 158,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//huile-prodigieuse-nuxe",
+        "url": "https://www.jumia.com.tn/huile-prodigieuse-nuxe",
         "type": "Soins Personnels"
       }
     ]
@@ -2389,19 +2389,19 @@
     "parent": 168,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soin-peau-visage",
+        "url": "https://www.jumia.com.tn/soin-peau-visage",
         "type": "Visage"
       },
       {
-        "url": "https://www.jumia.com.tn//soin-peau-visage",
+        "url": "https://www.jumia.com.tn/soin-peau-visage",
         "type": "Visage"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-boutique-sephora",
+        "url": "https://www.jumia.com.tn/mlp-boutique-sephora",
         "type": "Visage"
       },
       {
-        "url": "https://www.jumia.com.tn//bioderma",
+        "url": "https://www.jumia.com.tn/bioderma",
         "type": "Visage"
       }
     ]
@@ -2413,11 +2413,11 @@
     "parent": 168,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soins-personnels-soins-peau",
+        "url": "https://www.jumia.com.tn/soins-personnels-soins-peau",
         "type": "Peau"
       },
       {
-        "url": "https://www.jumia.com.tn//protection-solaire",
+        "url": "https://www.jumia.com.tn/protection-solaire",
         "type": "Peau"
       }
     ]
@@ -2429,11 +2429,11 @@
     "parent": 168,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soins-des-pieds-pedicure",
+        "url": "https://www.jumia.com.tn/soins-des-pieds-pedicure",
         "type": "Pieds"
       },
       {
-        "url": "https://www.jumia.com.tn//maquillage-traitements-ongles",
+        "url": "https://www.jumia.com.tn/maquillage-traitements-ongles",
         "type": "Pieds"
       }
     ]
@@ -2445,11 +2445,11 @@
     "parent": 168,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soin-cheveux",
+        "url": "https://www.jumia.com.tn/soin-cheveux",
         "type": "Cheveux"
       },
       {
-        "url": "https://www.jumia.com.tn//huile-de-monoi",
+        "url": "https://www.jumia.com.tn/huile-de-monoi",
         "type": "Cheveux"
       }
     ]
@@ -2461,7 +2461,7 @@
     "parent": 168,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-bien-etre-relaxation",
+        "url": "https://www.jumia.com.tn/sante-beaute-bien-etre-relaxation",
         "type": "Massage"
       }
     ]
@@ -2473,7 +2473,7 @@
     "parent": 168,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//gommage-exfoliant-homme",
+        "url": "https://www.jumia.com.tn/gommage-exfoliant-homme",
         "type": "Gommage"
       }
     ]
@@ -2499,7 +2499,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//epilation-femme",
+        "url": "https://www.jumia.com.tn/epilation-femme",
         "type": "épilation"
       }
     ]
@@ -2511,7 +2511,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//rasoirs-electriques",
+        "url": "https://www.jumia.com.tn/rasoirs-electriques",
         "type": "Tondeuse"
       }
     ]
@@ -2523,7 +2523,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soins-barbe-moustache",
+        "url": "https://www.jumia.com.tn/soins-barbe-moustache",
         "type": "Aprés Rasage"
       }
     ]
@@ -2535,7 +2535,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soins-personnels-accessoires-bain-bain",
+        "url": "https://www.jumia.com.tn/soins-personnels-accessoires-bain-bain",
         "type": "Shampoing et Gel douche"
       }
     ]
@@ -2547,7 +2547,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//coloration-cheveux",
+        "url": "https://www.jumia.com.tn/coloration-cheveux",
         "type": "Coloration Cheveux"
       }
     ]
@@ -2559,7 +2559,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soin-cheveux-extensions-perruques-accessoires",
+        "url": "https://www.jumia.com.tn/soin-cheveux-extensions-perruques-accessoires",
         "type": "Extensions"
       }
     ]
@@ -2571,7 +2571,7 @@
     "parent": 175,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//soin-cheveux-outils-appareils-coiffants",
+        "url": "https://www.jumia.com.tn/soin-cheveux-outils-appareils-coiffants",
         "type": "Sèche-cheveux et Plaque"
       }
     ]
@@ -2590,11 +2590,11 @@
     "parent": 184,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-unisexe",
+        "url": "https://www.jumia.com.tn/sante-beaute-unisexe",
         "type": "Homme"
       },
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-deodorants-antitranspirant",
+        "url": "https://www.jumia.com.tn/sante-beaute-deodorants-antitranspirant",
         "type": "Homme"
       }
     ]
@@ -2606,64 +2606,61 @@
     "parent": 184,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-parfums-celebrites",
+        "url": "https://www.jumia.com.tn/sante-beaute-parfums-celebrites",
         "type": "Femme"
       },
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-parfums-celebrites",
+        "url": "https://www.jumia.com.tn/sante-beaute-parfums-celebrites",
         "type": "Femme"
       }
     ]
   },
   {
     "id": 187,
-    "name": "Autres",
+    "name": "Autres produis pour Beauté",
     "hasSubCategory": false,
     "parent": 158,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-soins-bucco-dentaires",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/sante-beaute-soins-bucco-dentaires",
+        "type": "Autres produis pour Beauté"
+      },
+  
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-nivea",
+        "type": "Autres produis pour Beauté"
       },
       {
-        "url": "https://www.jumia.com.tn//sante-beaute-soins-bucco-dentaires",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/beaute-hygiene-sante/maybelline-new-york",
+        "type": "hygiene"
       },
       {
-        "url": "https://www.jumia.com.tn//mlp-boutique-nivea",
-        "type": "Autres"
-      },
-      {
-        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/maybelline-new-york",
-        "type": "Autres"
-      },
-      {
-        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/l-oreal-professionnel",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/beaute-hygiene-sante/l-oreal-professionnel",
+        "type": "hygiene"
       },
       {
         "url": "https://www.jumia.com.tn//beaute-hygiene-sante/technic",
-        "type": "Autres"
+        "type": "hygiene"
       },
       {
-        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/pharmaceris",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/beaute-hygiene-sante/pharmaceris",
+        "type": "hygiene"
       },
       {
-        "url": "https://www.jumia.com.tn//svr",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/svr",
+        "type": "Autres produis pour Beauté"
       },
       {
-        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/avene",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/beaute-hygiene-sante/avene",
+        "type": "Autres produis pour Beauté"
       },
       {
-        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/vichy",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/beaute-hygiene-sante/vichy",
+        "type": "AutrAutres produis pour Beautées"
       },
       {
-        "url": "https://www.jumia.com.tn//daylong",
-        "type": "Autres"
+        "url": "https://www.jumia.com.tn/daylong",
+        "type": "Autres produis pour Beauté"
       }
     ]
   },
@@ -2709,11 +2706,11 @@
     "parent": 189,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//mlp-cuisine-arts-culinaires/cuisine-salle-manger-cafetieres",
+        "url": "https:/www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-cafetieres",
         "type": "Machine Café"
       },
       {
-        "url": "https://www.jumia.com.tn//cafetiere",
+        "url": "https:/www.jumia.com.tn/cafetiere",
         "type": "Machine Café"
       }
     ]
@@ -2746,7 +2743,7 @@
     "parent": 0,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//couches-toilettes-bebe",
+        "url": "https:/www.jumia.com.tn/couches-toilettes-bebe",
         "type": "Bébé, Enfant et jouets"
       }
     ]
@@ -2758,7 +2755,7 @@
     "parent": 197,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//jeux-et-jouets-1",
+        "url": "https:/www.jumia.com.tn/jeux-et-jouets-1",
         "type": "Jouets"
       }
     ]
@@ -2798,11 +2795,11 @@
     "parent": 197,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//bebe-puericulture/bibi--chicco--farlin--mustela--nuby",
+        "url": "https:/www.jumia.com.tn/bebe-puericulture/bibi--chicco--farlin--mustela--nuby",
         "type": "Accessoires enfant"
       },
       {
-        "url": "https://www.jumia.com.tn//produits-bebes-poussettes-accessoires",
+        "url": "https:/www.jumia.com.tn/produits-bebes-poussettes-accessoires",
         "type": "Accessoires enfant"
       }
     ]
@@ -2814,11 +2811,11 @@
     "parent": 0,
     "links": [
       {
-        "url": "https://www.jumia.com.tn//arrosage",
+        "url": "https://www.jumia.com.tn/arrosage",
         "type": "Jardin"
       },
       {
-        "url": "https://www.jumia.com.tn//jardin-plein-air-paniers-pique-nique-tables-accessoires",
+        "url": "https://www.jumia.com.tn/jardin-plein-air-paniers-pique-nique-tables-accessoires",
         "type": "Jardin"
       }
     ]
