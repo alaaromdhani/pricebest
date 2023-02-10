@@ -1,0 +1,3280 @@
+[
+  {
+    "id": 1,
+    "name": "Quincaillerie",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/plomberie-et-sanitaire/sanitaire-cuisine.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/plomberie-et-sanitaire/accessoires-salle-de-bain.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/plomberie-et-sanitaire/salle-de-bain.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/plomberie-et-sanitaire/accessoires-de-robinetterie.html",
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Quincaillerie",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/quincaillerie/serrure-de-porte.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/materiel-de-securite-biometrie/detecteurs-alarme.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/materiel-de-securite-biometrie/coffre-fort.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/materiel-de-securite-biometrie/cadenas.html",
+        "type": "Quincaillerie"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/materiel-de-securite-biometrie/pointeuse.html",
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  {
+    "id": 3001,
+    "name": "eclairage",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/luminaire-eclairage/eclairage-de-plafond.html",
+        "type": "eclairage-de-plafond"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/luminaire-eclairage/lumiere-a-poser.html",
+        "type": "lumiere-a-poser"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/luminaire-eclairage/eclairage-d-ambiance.html",
+        "type": "eclairage-d-ambiance"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/luminaire-eclairage/eclairage-exterieur.html",
+        "type": "eclairage-exterieur"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/luminaire-eclairage/ampoules.html",
+        "type": "ampoules"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Outillage",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 4,
+    "name": "Décoration Extérieur",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 5,
+    "name": "Barbecue",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/appareil-de-cuisson/barbecue.html",
+        "type": "barbecue"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Appareil de mésure",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 7,
+    "name": "piscine",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 8,
+    "name": "Maison et Bureau",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/rangement-et-organisation/housse-de-vetements.html",
+        "type": "housse-de-vetements"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/maison/table-a-manger.html",
+        "type": "table-a-manger"
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "name": "Décoration",
+    "hasSubCategory": false,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/decoration/decoration-murale.html",
+        "type": "decoration-murale"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/decoration/decoration-de-fete.html",
+        "type": "decoration-de-fete"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/decoration/vegetaux-artificiels.html",
+        "type": "vegetaux-artificiels"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cuisine",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/cuisine/boites-de-conservation.html",
+        "type": "boite-de-conservation"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/rangement-conservation/boite-a-dejeuner.html",
+        "type": "boite-de-conservation"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ustensiles",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/cuisine/ustensiles-de-cuisine.html",
+        "type": "ustensiles"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Cuisine personalisée",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 12,
+    "name": "Rangement de Cuisine",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/rangement-et-organisation/rangement-cuisine.html",
+        "type": "rangement-cuisine"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Batterie de cuisine",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/cuisine/casseroles-poeles-faitouts.html",
+        "type": "maaoon"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/appareil-de-cuisson/cocotte.html",
+        "type": "cocotte"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 15,
+    "name": "Meuble",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/maison/meuble-de-cuisine.html",
+        "type": "meuble-de-cuisine"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/mobilier-de-jardin/tables.html",
+        "type": "tables-tables"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/maison/meuble-d-entree.html",
+        "type": "meuble-d-entree"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/maison/chambre.html",
+        "type": "chambre"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/mobilier-de-jardin/chaise.html",
+        "type": "chaises"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Salon",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/maison/meuble-salon.html",
+        "type": "meuble-salon"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/televiseurs/meuble-tv.html",
+        "type": "Salon"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Literie et Matelas",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/linge-de-maison/linge-de-lit.html",
+        "type": "linge-de-maison"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-dort/lit-bebe.html",
+        "type": "lit"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Placard et Dressing",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/maison/armoire.html",
+        "type": "armoire"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bureau",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/bureautique/mobilier-de-bureau/bureau.html",
+        "type": "bureau"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/mobilier-de-bureau/fauteuil.html",
+        "type": "chaise"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/mobilier-de-bureau/chaises-et-banquette.html",
+        "type": "chaise"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/mobilier-de-bureau/tables.html",
+        "type": "table"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/mobilier-de-bureau/rangement-de-bureau.html",
+        "type": "bureau"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": []
+  },
+  {
+    "id": 21,
+    "name": "Electroménager",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/glaciere.html",
+        "type": "Electroménager"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/rangement-conservation/bouteille-isotherme-gourde.html",
+        "type": "Electroménager"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/rangement-conservation/machine-sous-vide.html",
+        "type": "Electroménager"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Réfrigirateur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/gros-electromenager/refrigerateur.html",
+        "type": "refrigerateurs"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Machine à laver",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/gros-electromenager/machine-a-laver.html",
+        "type": "machine-a-laver"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Gaz et Hotte",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 25,
+    "name": "Four éléctrique",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 26,
+    "name": "Micro-onde",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 27,
+    "name": "Climatiseur et Chauffage",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 28,
+    "name": "Lave vaisselle",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/gros-electromenager/lave-vaisselle.html",
+        "type": "lave-vaisselle"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/cuisine/vaisselle-art-de-la-table.html",
+        "type": "lave-vaisselle"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Robots de cuisine",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/preparation-culinaire/robot-multifonction.html",
+        "type": "robot-multifonction"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/preparation-culinaire/robot-petrin.html",
+        "type": "robot-petrin"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Mixeur et Mélangeur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/preparation-culinaire/mixeur.html",
+        "type": "mixeurs"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/cafe-et-petit-dejeuner/presse-agrumes.html",
+        "type": "presse-agrumes"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/preparation-culinaire/blender.html",
+        "type": "blenders"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/preparation-culinaire/batteur.html",
+        "type": "mixeurs-batteurs"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Créperie et Gaufrier",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/appareil-de-cuisson/panini-gaufrier.html",
+        "type": "gaufrier"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ventillateur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 33,
+    "name": "Autre Electromenager",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/cafe-et-petit-dejeuner/mousseur-a-lait.html",
+        "type": "mousseur-a-lait"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/cafe-et-petit-dejeuner/bouilloire.html",
+        "type": "bouilloire"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/cafe-et-petit-dejeuner/centrifugeuse.html",
+        "type": "jusgeus-centrifue"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/hygiene-et-soin-maison/aspirateur.html",
+        "type": "aspirateur"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/hygiene-et-soin-maison/fer-a-repasser.html",
+        "type": "fer-a-repasser"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/hygiene-et-soin-maison/nettoyeur.html",
+        "type": "nettoyeur"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/hygiene-et-soin-maison/nettoyeur-a-haute-pression.html",
+        "type": "nettoyeur"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/hygiene-et-soin-maison/defroisseur-vertical.html",
+        "type": "defroisseur-vertical"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/gros-electromenager/four.html",
+        "type": "fours"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/gros-electromenager/table-de-cuisson.html",
+        "type": "cuisson"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/cuisine/plats-de-cuisson.html",
+        "type": "cuisson"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/appareil-de-cuisson/friteuse.html",
+        "type": "friteuses-classiques"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/appareil-de-cuisson/grille-viande.html",
+        "type": "grils"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/fontaine/fontaine-d-eau-fraiche.html",
+        "type": "fontaine"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/fontaine/fontaine-a-chocolat.html",
+        "type": "fontaine"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Autres pour maison et bureau",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/linge-de-maison/housse-de-rangement.html",
+        "type": "Autres pour maison et bureau"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Couettes et couvertures",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": []
+  },
+  {
+    "id": 36,
+    "name": "Tapis et Moquette",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": []
+  },
+  {
+    "id": 37,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": []
+  },
+  {
+    "id": 38,
+    "name": "Articles de fête",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 39,
+    "name": "Cadeaux",
+    "hasSubCategory": false,
+    "parent": 38,
+    "links": []
+  },
+  {
+    "id": 40,
+    "name": "Superette",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 41,
+    "name": "Sucré et Salé",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 42,
+    "name": "Ships et Snacks",
+    "hasSubCategory": false,
+    "parent": 41,
+    "links": []
+  },
+  {
+    "id": 43,
+    "name": "Biscuits et Cookies",
+    "hasSubCategory": false,
+    "parent": 41,
+    "links": []
+  },
+  {
+    "id": 44,
+    "name": "Boissons",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 45,
+    "name": "Eau",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 46,
+    "name": "Jus",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 47,
+    "name": "Soda",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 48,
+    "name": "Café et Thé",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 49,
+    "name": "Produits alimentaires",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 50,
+    "name": "Huile",
+    "hasSubCategory": false,
+    "parent": 49,
+    "links": []
+  },
+  {
+    "id": 51,
+    "name": "Pate et Riz",
+    "hasSubCategory": false,
+    "parent": 49,
+    "links": []
+  },
+  {
+    "id": 52,
+    "name": "Nettoyage",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 53,
+    "name": "Nettoyage de cuisine",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 54,
+    "name": "Nettoyage salle de bain",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 55,
+    "name": "Outils de nettoyage",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 56,
+    "name": "Ordinateur et Bureautique",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/appareil-fax/fax-laser.html",
+        "type": "fax"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/serveurs/serveur-rack.html",
+        "type": "serveurs"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/serveurs/serveur-tour.html",
+        "type": "serveurs"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/serveurs/station-de-travail.html",
+        "type": "station-de-travail"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/rangement-et-organisation/rangement-salle-de-bain.html",
+        "type": "rangement-salle-de-bain"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/switch.html",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/point-d-acces.html",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/routeur.html",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/repeteur-wi-fi.html",
+        "type": "repeteur-wi-fi"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/stockage-reseau.html",
+        "type": "stockage-reseau"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/armoires-coffrets.html",
+        "type": "armoires-coffrets"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/cle-wifi-bluetooth.html",
+        "type": "cle-wifi-bluetooth"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/accessoires-switch.html",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/4g-box-ooredoo.html",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/accessoires-reseau.html",
+        "type": "stockage-reseau"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/sim.html",
+        "type": "sim"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/logiciels/antivirus-et-securite.html",
+        "type": "anti-virus"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/logiciels/suite-bureautique.html",
+        "type": "bureautique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/logiciels/systeme-d-exploitation.html",
+        "type": "station-de-travail"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/papier/papier-a4.html",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/papier/papier-a3.html",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/papier/papier-couleur.html",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/papier/papier-photo.html",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/papier/papier-thermique.html",
+        "type": "fax"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/materiel-point-de-vente/douchette.html",
+        "type": "douchette"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/materiel-point-de-vente/caisse.html",
+        "type": "caisse"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/materiel-point-de-vente/balance-electronique.html",
+        "type": "balance-electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/materiel-point-de-vente/tiroir-caisse.html",
+        "type": "caisse"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/materiel-point-de-vente/compteuse-de-billets.html",
+        "type": "compteuse-de-billets"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/scolaire/ecriture.html",
+        "type": "stylos-crayons"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/scolaire/coloriage-pate-a-modeler.html",
+        "type": "coloriage-pate-a-modeler"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/scolaire/colle-adhesif.html",
+        "type": "colle"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/scolaire/geometrie-tracage.html",
+        "type": "geometrie-tracage"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/scolaire/taille-crayon.html",
+        "type": "stylos-crayons"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/accessoires-de-bureau/globe-atmosphere.html",
+        "type": "globe-atmosphere"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/accessoires-de-bureau/pot-a-stylos.html",
+        "type": "pot-a-stylos"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/accessoires-de-bureau/pot-a-trombones.html",
+        "type": "360-trombone-pince"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/accessoires-de-bureau/corbeille-a-papier.html",
+        "type": "corbeille"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/accessoires-de-bureau/bloc-cube-papier.html",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/fourniture-de-bureau/cahier-feuille.html",
+        "type": "cahier-feuille"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/fourniture-de-bureau/adhesifs-agrafage.html",
+        "type": "agrafage"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/fourniture-de-bureau/calculatrice.html",
+        "type": "calculatrice"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/fourniture-de-bureau/destructeur.html",
+        "type": "destructeur"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/fourniture-de-bureau/plastifieuse.html",
+        "type": "plastifieuse"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/classements-archivages/classeur.html",
+        "type": "classeur"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/classements-archivages/boite-d-archives.html",
+        "type": "boite-d-archives"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/classements-archivages/chemise-papiers.html",
+        "type": "chemise-papiers"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/classements-archivages/intercalaire.html",
+        "type": "intercalaire"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/classements-archivages/porte-documents.html",
+        "type": "porte-documents"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/tableaux/tableau-blanc.html",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/tableaux/tableau-a-craie.html",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/tableaux/tableau-en-liege.html",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/tableaux/cadre-d-affichage.html",
+        "type": "cadre-d-affichage"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/tableaux/accessoires-tableau.html",
+        "type": "accessoires-tableau"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/ecriture-correction/stylos.html",
+        "type": "stylos-crayons"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/ecriture-correction/crayons.html",
+        "type": "stylos-crayons"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/ecriture-correction/porte-mine.html",
+        "type": "porte-mine"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/ecriture-correction/recharge-porte-mines.html",
+        "type": "porte-mine"
+      },
+      {
+        "url": "https://www.mytek.tn/bureautique/ecriture-correction/surligneurs.html",
+        "type": "surligneurs"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Ordinateur",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": []
+  },
+  {
+    "id": 58,
+    "name": "Pc Portable",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateurs-portables/pc-portable.html",
+        "type": "Pc Portable"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateurs-portables/pc-portable-pro.html",
+        "type": "Pc Portable"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateurs-portables/mac.html",
+        "type": "Pc Portable"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateurs-portables/ultrabook.html",
+        "type": "Pc Portable"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Pc Fixe",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateur-de-bureau/pc-de-bureau.html",
+        "type": "Pc Fixe"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateur-de-bureau/pc-tout-en-un.html",
+        "type": "Pc Fixe"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateur-de-bureau/ecran.html",
+        "type": "Pc Fixe"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateur-de-bureau/imac.html",
+        "type": "Pc Fixe"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Pc Gamer",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateur-de-bureau/ordinateur-gamer.html",
+        "type": "Pc Gamer"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/ordinateurs-portables/pc-gamer.html",
+        "type": "Pc Gamer"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Périphériques et accessoires",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/reseaux/carte-reseau.html",
+        "type": "carte-reseau"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/cable-antivol-pc.html",
+        "type": "cable-antivol-pc"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/clavier-souris.html",
+        "type": "claviers-et-souris"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/tapis-de-souris.html",
+        "type": "tapis-de-souris"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/webcam.html",
+        "type": "497-web-cam"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/refroidisseurs.html",
+        "type": "refroidisseur"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/processeur.html",
+        "type": "processeur"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/carte-graphique.html",
+        "type": "cartes-graphiques"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/barrette-memoire.html",
+        "type": "barrette-memoire"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/carte-mere.html",
+        "type": "carte-mere"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/boitier.html",
+        "type": "27-boitier"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/bloc-d-alimentation.html",
+        "type": "41-alimentation"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-informatique/chargeur-pc-portable.html",
+        "type": "chargeur-pc"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-serveur/barrettes-memoire.html",
+        "type": "telephones-tablettes-etuis-clips"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-serveur/boite-d-alimentation.html",
+        "type": "41-alimentation"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/composants-serveur/controleur.html",
+        "type": "controleur"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Souris",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 63,
+    "name": "claviers",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 64,
+    "name": "Matériels de jeu",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 65,
+    "name": "Haut-parleur",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 66,
+    "name": "autres périphériques",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 67,
+    "name": "Supports de Stockages",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": []
+  },
+  {
+    "id": 68,
+    "name": "Disque Dur",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/disque-dur.html",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/disque-dur-interne.html",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/disque-dur-externe.html",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/disque-dur-ssd.html",
+        "type": "disque-dur-ssd"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/disque-dur-videosurveillance.html",
+        "type": "disque-dur-videosurveillance"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Flash disque",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/cle-usb.html",
+        "type": "Flash disque"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Carte mémoire",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/stockage/carte-memoire.html",
+        "type": "Carte mémoire"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Imprimantes et Scanner",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/impression/photocopieurs/photocopieur-couleur.html",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/photocopieurs/photocopieur-monochrome.html",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/photocopieurs/accessoires-photocopieurs.html",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/accessoires-imprimantes/cable-usb.html",
+        "type": "Imprimantes et Scanner"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "imprimante",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-a-reservoir-integre.html",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-et-multifonction-jet-d-encre.html",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-et-multifonction-laser.html",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-matricielle.html",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-art-graphique.html",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-thermique.html",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/imprimantes/imprimante-photo.html",
+        "type": "imprimante"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Scanner",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/impression/scanners/scanner-a-plat.html",
+        "type": "Scanner"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/scanners/scanner-a-defilement.html",
+        "type": "Scanner"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/scanners/scanner-de-document.html",
+        "type": "Scanner"
+      },
+      {
+        "url": "https://www.mytek.tn/impression/scanners/consommables.html",
+        "type": "Scanner"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Cartouches d'encre",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": []
+  },
+  {
+    "id": 75,
+    "name": "Téléphone et Tablette",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/telephone-fixe/telephone-filaire.html",
+        "type": "Téléphone et Tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/telephone-fixe/telephone-sans-fil.html",
+        "type": "Téléphone et Tablette"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Portables",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": []
+  },
+  {
+    "id": 77,
+    "name": "Smartphones",
+    "hasSubCategory": false,
+    "parent": 76,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/smartphone-mobile-tunisie/telephone-portable.html",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/smartphone-mobile-tunisie/smartphone-tunisie.html",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/smartphone-mobile-tunisie/iphone.html",
+        "type": "Smartphones"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Téléphone basic",
+    "hasSubCategory": false,
+    "parent": 76,
+    "links": []
+  },
+  {
+    "id": 79,
+    "name": "Tablettes",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": []
+  },
+  {
+    "id": 80,
+    "name": "Tablettes",
+    "hasSubCategory": false,
+    "parent": 79,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/tablettes-tactiles/tablettes-android.html",
+        "type": "Tablettes"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/tablettes-tactiles/ipad.html",
+        "type": "Tablettes"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/tablettes-tactiles/accessoires-tablette.html",
+        "type": "Tablettes"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/tablette-graphique.html",
+        "type": "Tablettes"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Accessoires Tablettes",
+    "hasSubCategory": false,
+    "parent": 79,
+    "links": []
+  },
+  {
+    "id": 82,
+    "name": "Accessoires pour téléphone et tablette",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/etuis-et-coques.html",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/protection-ecran.html",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/tige-selfie.html",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/controleur-de-jeu.html",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/brassade.html",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/batterie.html",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/stabilisateur.html",
+        "type": "Accessoires pour téléphone et tablette"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Smartwatch",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/smartwatch/montre-connectee.html",
+        "type": "Smartwatch"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/smartwatch/bracelet-connectee.html",
+        "type": "Smartwatch"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/smartwatch/accessoires-montres-connectees.html",
+        "type": "Smartwatch"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Pochettes",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": []
+  },
+  {
+    "id": 85,
+    "name": "Casques et écouteurs",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": []
+  },
+  {
+    "id": 86,
+    "name": "Power Banque",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/power-bank.html",
+        "type": "Power Banque"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Chargeurs et Cables",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/cable-chargeur.html",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.mytek.tn/telephonie-tunisie/accessoires-telephonie/chargeur.html",
+        "type": "Chargeurs et Cables"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Electronique",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/image-son/affichage-et-controle/tableau-et-ecran-interactif.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/affichage-et-controle/accessoires-ecran-interactif.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/instruments-de-musique/instruments-a-cordes.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/instruments-de-musique/instruments-a-clavier.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/instruments-de-musique/batterie-percussion.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/videosurveillance/camera-de-surveillance.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/videosurveillance/enregistreur-dvr.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/videosurveillance/kit-video-surveillance.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/videosurveillance/accessoires-de-video-surveillance.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/videosurveillance/interphone-videophone.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-reseau.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-audio.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-hdmi.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-vga.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-usb.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/convertisseur.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-d-alimentation.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/adaptateur.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/adaptateur-d-alimentation.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/cables-video.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/cables-adaptateurs/splitter-hdmi-vga.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/equipement-electricite/multiprises.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/equipement-electricite/testeur-electrique.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/equipement-electricite/programmateur-journalier.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/equipement-electricite/batterie-rechargeable.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/onduleurs/onduleur-off-line.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/onduleurs/onduleur-on-line.html",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.mytek.tn/reseaux-securite/onduleurs/onduleur-in-line.html",
+        "type": "Electronique"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Télévisions",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/image-son/recepteurs-numeriques-abonnement/android-tv-box.html",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/recepteurs-numeriques-abonnement/recepteur-numerique.html",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/recepteurs-numeriques-abonnement/abonnement-ip-tv.html",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.mytek.tn/image-son/recepteurs-numeriques-abonnement/bein-sports.html",
+        "type": "Télévisions"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Smart TV",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": []
+  },
+  {
+    "id": 91,
+    "name": "TV Led",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/image-son/televiseurs/tv-led.html",
+        "type": "TV Led"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "TV 4K",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": []
+  },
+  {
+    "id": 93,
+    "name": "Audio",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": []
+  },
+  {
+    "id": 94,
+    "name": "Haut-parleur",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 95,
+    "name": "Home Cinéma",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 96,
+    "name": "Radio",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 97,
+    "name": "Ecouteurs",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 98,
+    "name": "Appareils photos",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": []
+  },
+  {
+    "id": 99,
+    "name": "Caméras digitales",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 100,
+    "name": "Caméras de surveillance",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 101,
+    "name": "Vidéo projecteur",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 102,
+    "name": "Jeux vidéos",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/gaming/console-de-jeux/playstation.html",
+        "type": "playstation"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/console-de-jeux/xbox.html",
+        "type": "xbox"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/console-de-jeux/game-boy.html",
+        "type": "game-boy"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/console-de-jeux/nintendo.html",
+        "type": "nintendo"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Jeux vidéo",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/gaming/accessoires-de-jeux/jeux-video.html",
+        "type": "Jeux vidéo"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Manettes",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/gaming/accessoires-de-jeux/manettes.html",
+        "type": "Manettes"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Accessoires Gaming",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/ecran-gamer.html",
+        "type": "ecran-gamer"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/haut-parleur-gamer.html",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/souris-gamer.html",
+        "type": "souris-gamer"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/clavier-gamer.html",
+        "type": "clavier-gamer"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/micro-casque-gamer.html",
+        "type": "casque"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/tapis-de-souris-gamer.html",
+        "type": "tapis-de-souris"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/accessoires-de-jeux/casque-de-realite-virtuelle.html",
+        "type": "casque"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/accessoires-de-jeux/accessoires-jeux-de-course.html",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/accessoires-de-jeux/abonnement-playstation.html",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/accessoires-de-jeux/chargeur-console-de-jeux.html",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/composant-pc-gamer/boitier-pc-gamer.html",
+        "type": "boitier"
+      },
+      {
+        "url": "https://www.mytek.tn/gaming/composant-pc-gamer/ventilateur-gamer.html",
+        "type": "refroidisseur"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Automobile et Moto",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/auto-moto/moto.html",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/auto-moto/scooter-a-essence.html",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/auto-moto/scooter-electrique.html",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/auto-moto/mobylette.html",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/vehicules-et-voitures/voiture-electrique.html",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/vehicules-et-voitures/vehicules-et-circuit.html",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/vehicules-et-voitures/vehicule-telecommandee.html",
+        "type": "Automobile et Moto"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Entretien des voitures",
+    "hasSubCategory": true,
+    "parent": 106,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/entretien-et-nettoyant-auto/nettoyant-et-lavage.html",
+        "type": "Entretien des voitures"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/entretien-et-nettoyant-auto/accessoires-voiture.html",
+        "type": "Entretien des voitures"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Kits de nettoyage",
+    "hasSubCategory": false,
+    "parent": 107,
+    "links": []
+  },
+  {
+    "id": 109,
+    "name": "Outils et équipements",
+    "hasSubCategory": false,
+    "parent": 107,
+    "links": []
+  },
+  {
+    "id": 110,
+    "name": "Accessoires pour Automobile et Moto",
+    "hasSubCategory": true,
+    "parent": 106,
+    "links": []
+  },
+  {
+    "id": 111,
+    "name": "Pièces de rechange auto",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 112,
+    "name": "GPS",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 113,
+    "name": "Pièces de rechange Moto",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 114,
+    "name": "Pneu",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 115,
+    "name": "Vidéo de voiture",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 116,
+    "name": "Sécurité Automobile",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 117,
+    "name": "Mode",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/bijouterie/montre.html",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/bijouterie/bracelet.html",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/bijouterie/colliers.html",
+        "type": "Mode"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Mode homme",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": []
+  },
+  {
+    "id": 119,
+    "name": "Vestes et Mantaux",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 120,
+    "name": "Chemises",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 121,
+    "name": "Capuches",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 122,
+    "name": "T-Shirts",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 123,
+    "name": "Pulls et Gilets",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 124,
+    "name": "Pantalons et Jeans",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 125,
+    "name": "Costumes et Cravates",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 126,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 127,
+    "name": "Accessoires mode homme",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 128,
+    "name": "Mode femme",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": []
+  },
+  {
+    "id": 129,
+    "name": "Vestes et Manteaux",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 130,
+    "name": "Pulls, Gilets et Sweat",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 131,
+    "name": "Robes",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 132,
+    "name": "Jupes",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 133,
+    "name": "Combinaisons et Ensembles",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 134,
+    "name": "Chaussettes, Bas et Colons",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 135,
+    "name": "Pantalons et Jeans",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 136,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 137,
+    "name": "Accessoires mode femme",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 138,
+    "name": "Bagagerie",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sacs-bagages/sac-a-main.html",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sacs-bagages/portefeuilles.html",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sacs-bagages/accessoires-bagages.html",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sacs-bagages/parapluies.html",
+        "type": "Bagagerie"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Valises",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sacs-bagages/valises-sacs-de-voyage.html",
+        "type": "Valises"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Sac à Dos",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/sac-a-dos-scolaire.html",
+        "type": "Sac à Dos"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Sac et Pochettes",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/peripheriques-accessoires/sacs-sacoches.html",
+        "type": "Sac et Pochettes"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/sac-a-gouter.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/trousse.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/informatique/sacs-scolaires-trousses/accessoires-sac-a-dos.html",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Sport et loisirs",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/trottinette.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/hoverboard.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/skateboard.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/patins-a-roulettes.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/kit-kart.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/glisse-urbaine/accessoires-de-glisse-urbaine.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/randonnee-et-camping/lampe-camping.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/randonnee-et-camping/parasol-tonnelle.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/randonnee-et-camping/couteaux-et-outils.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/randonnee-et-camping/gps-portable.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sport-d-eau-nautisme/moteur-de-bateau.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/actualite/people.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/actualite/actualite-internationale.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/culture/science-et-vie.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/culture/histoire.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/feminin/feminins-generalistes.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/feminin/actualite-feminine.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/feminin/couture.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/vie-pratique/special-materiel.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/vie-pratique/magazine-informatique.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/art-de-vivre/cuisine.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/art-de-vivre/architecture.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/art-de-vivre/animaux.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/art-de-vivre/jardinage.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/sport/sport-auto-moto.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/sport/football.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/jeunesse/enfant.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/jeunesse/magazines-disney.html",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.mytek.tn/magazine/loisirs/jeux-de-mots-croises-fleches.html",
+        "type": "Sport et loisirs"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Sport et Fitness",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/tapis-roulant.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/velo-elliptique.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/sport-de-combat.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/fitness-musculation.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/sports-collectifs.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/sports-de-raquettes.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/gymnastique.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/sports/accessoires-de-sport.html",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/piscine-et-jeux-de-plage.html",
+        "type": "Sport et Fitness"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Appareils de musculation",
+    "hasSubCategory": false,
+    "parent": 144,
+    "links": []
+  },
+  {
+    "id": 146,
+    "name": "Vêtements de Sport",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 147,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 146,
+    "links": []
+  },
+  {
+    "id": 148,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 146,
+    "links": []
+  },
+  {
+    "id": 149,
+    "name": "Chaussures de Sport",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 150,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 149,
+    "links": []
+  },
+  {
+    "id": 151,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 149,
+    "links": []
+  },
+  {
+    "id": 152,
+    "name": "Vélos",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/tricycles.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclette-enfant.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-bmx.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclette-electrique.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-vtt.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/velo-de-route.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/bicyclettes-city.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/velo-pliant.html",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/bicyclettes/accessoires-velo.html",
+        "type": "Vélos"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Bicyclette éléctrique",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 154,
+    "name": "Bicyclette VTT",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 155,
+    "name": "Bicyclette Ville",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 156,
+    "name": "Bicyclette BMX",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 157,
+    "name": "Compléments alimentaires",
+    "hasSubCategory": false,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/nutrition-sportive/proteines.html",
+        "type": "Compléments alimentaires"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/nutrition-sportive/prise-de-masse.html",
+        "type": "Compléments alimentaires"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/nutrition-sportive/seche-minceur.html",
+        "type": "Compléments alimentaires"
+      },
+      {
+        "url": "https://www.mytek.tn/sports-loisirs/nutrition-sportive/shaker.html",
+        "type": "Compléments alimentaires"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Beauté, Santé et Cheveux",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 159,
+    "name": "Maquillage",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": []
+  },
+  {
+    "id": 160,
+    "name": "Visage",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 161,
+    "name": "Anti Cernes et Correcteurs",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 162,
+    "name": "Maquillage yeux",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 163,
+    "name": "Rouge à lévre",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 164,
+    "name": "Vernis",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 165,
+    "name": "Pinceaux",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 166,
+    "name": "Accessoires Maquillages",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 167,
+    "name": "Palette de maquillage",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 168,
+    "name": "Soins Personnels",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/soins-visage-et-corps.html",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/soins-mains-et-pieds.html",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/soins-homme/rasoir.html",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/soins-femme/lisseur.html",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/soins-femme/fer-a-boucler.html",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/soins-femme/brosse-soufflante.html",
+        "type": "Soins Personnels"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Visage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 170,
+    "name": "Peau",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 171,
+    "name": "Pieds",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 172,
+    "name": "Cheveux",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/soins-cheveux.html",
+        "type": "Cheveux"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Massage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/massage-bien-etre/appareils-de-massage.html",
+        "type": "Massage"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Gommage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 175,
+    "name": "Les essentiels",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": []
+  },
+  {
+    "id": 176,
+    "name": "Protection Solaire",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 177,
+    "name": "épilation",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/epilation/epilateur.html",
+        "type": "épilation"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/epilation/cires.html",
+        "type": "épilation"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Tondeuse",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/soins-homme/tondeuse.html",
+        "type": "Tondeuse"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Aprés Rasage",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 180,
+    "name": "Shampoing et Gel douche",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 181,
+    "name": "Coloration Cheveux",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 182,
+    "name": "Extensions",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 183,
+    "name": "Sèche-cheveux et Plaque",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/soins-femme/seche-cheveux.html",
+        "type": "Sèche-cheveux et Plaque"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Parfum et Déodorant",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/parfums/eau-de-parfum.html",
+        "type": "Parfum et Déodorant"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/parfums/eau-de-senteur.html",
+        "type": "Parfum et Déodorant"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/parfums/eau-de-toilette.html",
+        "type": "Parfum et Déodorant"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/parfums/eau-de-cologne.html",
+        "type": "Parfum et Déodorant"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/parfums/coffrets.html",
+        "type": "Parfum et Déodorant"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 184,
+    "links": []
+  },
+  {
+    "id": 186,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 184,
+    "links": []
+  },
+  {
+    "id": 187,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/rangement-cosmetique.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/equipement-de-protection-individuelle.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/desinfectant.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/hygiene-soin-beaute/bavettes.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/pese-personne.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/thermometre.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/tensiometre.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/hygiene-dentaire.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/appareil-respiratoire.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/hygrometre.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/sante/oxymetre-de-pouls.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/collier-cervical.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/membre-superieur.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/tronc-rachis.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/mode-beaute-sante/orthopedie/membre-inferieur.html",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Café et Restaurant",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 189,
+    "name": "Café",
+    "hasSubCategory": true,
+    "parent": 188,
+    "links": []
+  },
+  {
+    "id": 190,
+    "name": "Moulin Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 191,
+    "name": "Grain de Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 192,
+    "name": "Machine café turc",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 193,
+    "name": "Machine Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/electromenager/cafe-et-petit-dejeuner/cafetiere.html",
+        "type": "Machine Café"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "fournitures café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 195,
+    "name": "Table et Chaise",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 196,
+    "name": "Restaurant",
+    "hasSubCategory": false,
+    "parent": 188,
+    "links": []
+  },
+  {
+    "id": 197,
+    "name": "Bébé, Enfant et jouets",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/bebe/grossesse-et-allaitement/coussin-de-grossesse.html",
+        "type": "Bébé, Enfant et jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/grossesse-et-allaitement/tire-lait.html",
+        "type": "Bébé, Enfant et jouets"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Jouets",
+    "hasSubCategory": true,
+    "parent": 197,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-table/baby-foot.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-table/billard.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-table/ping-pong.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/cuisine-enfant.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/figurines.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/jouets-metiers.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/jouet-anti-stress.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/maquillage-et-beaute-enfant.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/instrument-de-musique-enfant.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/jouets-musicaux.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jouets-d-imitation/jouet-divers.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/trottinettes-et-skateboard.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/jeux-d-adresse-et-sportifs.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/panneau-de-basket.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/balles-et-ballons.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/trampoline.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/balancoire.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/jeux-de-flechettes.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/jeux-de-jardin.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/maisonnettes.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-plein-air/complexe-de-jeux.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-educatifs-et-de-societe/jouets-en-bois.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-educatifs-et-de-societe/jeux-de-cartes.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-educatifs-et-de-societe/jeux-de-plateau.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-educatifs-et-de-societe/jeux-de-strategie-et-reflexion.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-educatifs-et-de-societe/tableau-d-apprentissage.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/poupees-poupons/peluches.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/poupees-poupons/poupees.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/poupees-poupons/accessoires-de-poupees.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/loisirs-creatifs/pate-sable-a-modeler.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/loisirs-creatifs/dessin-peinture.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/loisirs-creatifs/stylo-3d.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/loisirs-creatifs/table-de-jeux-enfant.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/loisirs-creatifs/tablettes-enfants.html",
+        "type": "Jouets"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/loisirs-creatifs/chaise-enfant.html",
+        "type": "Jouets"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Bicyclettes",
+    "hasSubCategory": false,
+    "parent": 198,
+    "links": []
+  },
+  {
+    "id": 1990,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 198,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/blocs-et-lego.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/puzzle.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/blocs-et-lego.html",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.mytek.tn/jeux-jouets/jeux-de-construction/puzzle.html",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Vêtements",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/bebe/vetements-bebe/couvertures-d-emmaillotage.html",
+        "type": "Vêtements"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/vetements-bebe/sous-vetements.html",
+        "type": "Vêtements"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": []
+  },
+  {
+    "id": 202,
+    "name": "Accessoires enfant",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-se-promene/poussette.html",
+        "type": "poussette"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-se-promene/siege-auto.html",
+        "type": "siege-auto"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-se-promene/porte-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-se-promene/sac-a-langer.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-s-eveille/trotteur.html",
+        "type": "trotteur"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-s-eveille/parc-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-s-eveille/jouets-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-s-eveille/tapis-d-eveil.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/assiette-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/sucette-attache-sucette.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/tasse-d-apprentissage.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/couvert-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/chaise-haute.html",
+        "type": "chaise-haute"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/bavoir.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/chauffe-biberon.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/sterilisateur-biberon.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-mange/biberon-et-accessoires.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-dort/matelas-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-dort/berceau.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-dort/landau.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-dort/coussin-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/toilette-soin-de-bebe/table-a-langer.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/toilette-soin-de-bebe/baignoire-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/toilette-soin-de-bebe/hygiene-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-en-securite/babyphone.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-en-securite/protege-genoux.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/bebe-en-securite/equipement-de-securite-bebe.html",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.mytek.tn/bebe/coffrets-nouveau-ne/kit-biberon.html",
+        "type": "Accessoires enfant"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Jardin",
+    "hasSubCategory": false,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/animalerie/chats.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/animalerie/chiens.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/outillage-electroportatifs.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/outillage-a-main.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/outillage-de-mesure.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/outils-de-coupe.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/outils-de-peinture.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/materiel-de-soudure.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/equipement-de-securite.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/outillage-de-jardin.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/bricolage-jardin/accessoires-outillage.html",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.mytek.tn/maison-bricolage/mobilier-de-jardin/salon-de-jardin.html",
+        "type": "Jardin"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2826 @@
+[
+  {
+    "id": 1,
+    "name": "Quincaillerie",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 2,
+    "name": "Quincaillerie",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 3001,
+    "name": "eclairage",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/eclairage-lanternes-torches",
+        "type": "eclairage-lanternes-torches"
+      },
+      {
+        "url": "https://www.jumia.com.tn/eclairage-cordes-lumineuses-exterieures",
+        "type": "eclairage-cordes-lumineuses-exterieures"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Outillage",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 4,
+    "name": "Décoration Extérieur",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 5,
+    "name": "Barbecue",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/catalog/?q=barbecue+à+charbon",
+        "type": "barbecue à charbon"
+      },
+      {
+        "url": "https://www.jumia.com.tn/maison-cuisine-jardin/?q=barbecues+électriques",
+        "type": "barbecues électrique"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Appareil de mésure",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 7,
+    "name": "piscine",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/piscines-avec-armatures/",
+        "type": "piscine"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Maison et Bureau",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 3002,
+    "name": "Décoration",
+    "hasSubCategory": false,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/la-decoration",
+        "type": "la-decoration"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cuisine",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/boites-de-conservation/",
+        "type": "boite-de-conservation"
+      },
+      {
+        "url": "https://www.jumia.com.tn/tous-les-produits-maison-cuisine",
+        "type": "tous-les-produits-maison-cuisine"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-diner-divertissant",
+        "type": "salle-manger"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-moules-gateaux",
+        "type": "salle-manger"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-accessoires-cuisine",
+        "type": "salle-manger"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-sinbo",
+        "type": "mlp-boutique-sinbo"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-sokany",
+        "type": "mlp-boutique-sinbo"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-evertek-home",
+        "type": "mlp-boutique-sinbo"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-metaltex",
+        "type": "mlp-boutique-sinbo"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuisine-salle-manger-conteneurs-nourriture-voyage-to-go",
+        "type": "salle-manger"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuisine-salle-manger-outils-mesure-balances",
+        "type": "tous-les-produits-maison-cuisine"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ustensiles",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/moulins-a-epices",
+        "type": "moulins-a-epices"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuisine-salle-manger-ustensiles-cuisine-gadgets",
+        "type": "ustensiles"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Cuisine personalisée",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 12,
+    "name": "Rangement de Cuisine",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-sofpince",
+        "type": "mlp-boutique-sofpince"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Batterie de cuisine",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/moules-plats-pour-le-four",
+        "type": "plats-pour-le-four"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-tefal",
+        "type": "mlp-boutique-tefal"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-cookart",
+        "type": "mlp-boutique-cookart"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/poeles-a-frire",
+        "type": "poeles"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-poeles",
+        "type": "poeles"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-casseroles",
+        "type": "casseroles"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-casseroles-du-chef",
+        "type": "casseroles"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuisine-salle-manger-cocotte-minute",
+        "type": "cocotte"
+      },
+      {
+        "url": "https://www.jumia.com.tn/casseroles-marmites",
+        "type": "casseroles"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 15,
+    "name": "Meuble",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/maison-bureau-meubles",
+        "type": "maison-bureau-meubles"
+      },
+      {
+        "url": "https://www.jumia.com.tn/tables-tables",
+        "type": "tables-tables"
+      },
+      {
+        "url": "https://www.jumia.com.tn/chaises-d-exterieur",
+        "type": "chaises"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Salon",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/maison-cuisine-jardin/?q=meubles+tv",
+        "type": "meuble-tv"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Literie et Matelas",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/linge-de-maison",
+        "type": "linge-de-maison"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Placard et Dressing",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/catalog/?q=armoire",
+        "type": "armoire"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bureau",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": []
+  },
+  {
+    "id": 20,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": []
+  },
+  {
+    "id": 21,
+    "name": "Electroménager",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": []
+  },
+  {
+    "id": 22,
+    "name": "Réfrigirateur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/refrigerateurs-frigo",
+        "type": "refrigerateurs"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/congelateurs",
+        "type": "congelateur"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Machine à laver",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 24,
+    "name": "Gaz et Hotte",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/hottes-cuisiniere",
+        "type": "hottes-cuisiniere"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/hottes-cuisiniere",
+        "type": "hottes-cuisiniere"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Four éléctrique",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 26,
+    "name": "Micro-onde",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/micro-onde",
+        "type": "micro-onde"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/micro-onde",
+        "type": "micro-onde"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Climatiseur et Chauffage",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/chauffage",
+        "type": "chauffage"
+      },
+      {
+        "url": "https://www.jumia.com.tn/catalog/?q=climatiseur",
+        "type": "climatiseur"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Lave vaisselle",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/lave-vaisselle-12-a-15-couverts",
+        "type": "lave-vaisselle"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Robots de cuisine",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 30,
+    "name": "Mixeur et Mélangeur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/sp-boutique-moulinex",
+        "type": "moulinex"
+      },
+      {
+        "url": "https://www.jumia.com.tn/maison-cuisine-jardin/moulinex",
+        "type": "moulinex"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/mixeurs-batteurs",
+        "type": "mixeurs-batteurs"
+      },
+      {
+        "url": "https://www.jumia.com.tn/blenders-chauffants",
+        "type": "blenders"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/blenders-chauffants",
+        "type": "blenders-chauffants"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/mixeurs-batteurs",
+        "type": "mixeurs-batteurs"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/mixeurs-batteurs",
+        "type": "mixeurs-batteurs"
+      },
+      {
+        "url": "https://www.mytek.tn/electromenager/cafe-et-petit-dejeuner/presse-agrumes.html",
+        "type": "presse-agrumes"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Créperie et Gaufrier",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/gaufrier",
+        "type": "gaufrier"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Ventillateur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/ventilateur-domestique",
+        "type": "ventilateur-domestique"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Autre Electromenager",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuiseurs-a-riz",
+        "type": "cuiseur"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/fours-muraux",
+        "type": "fours"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/fours-muraux",
+        "type": "fours"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/cuisine-salle-manger-grils-electriques",
+        "type": "grils"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/planchas",
+        "type": "planchas"
+      },
+      {
+        "url": "https://www.jumia.com.tn/maison-bureau-securite-surete",
+        "type": "securite"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuisine-salle-manger-batterie-cuisine-electrique",
+        "type": "batterie-cuisine-electrique"
+      },
+      {
+        "url": "https://www.jumia.com.tn/machines-a-pain",
+        "type": "machines-a-pain"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuiseurs-vapeur",
+        "type": "cuiseur"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/machines-a-pain",
+        "type": "machines-a-pain"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/friteuses-classiques",
+        "type": "friteuses-classiques"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/jusgeus-centrifue",
+        "type": "jusgeus-centrifue"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/petits-appareils-grille-pains",
+        "type": "machines-a-pain"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/maison-bureau-appareils-cuisson",
+        "type": "cuisson"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-russell-hobbs",
+        "type": "boutique"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-pyrex",
+        "type": "boutique"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-luminarc",
+        "type": "boutique"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-boutique-ufesa",
+        "type": "boutique"
+      },
+      {
+        "url": "https://www.jumia.com.tn/jus-centrifugeuse",
+        "type": "jusgeus-centrifue"
+      },
+      {
+        "url": "https://www.jumia.com.tn/mlp-cuisine-arts-culinaires/friteuses-classiques",
+        "type": "friteuses-classiques"
+      },
+      {
+        "url": "https://www.jumia.com.tn/cuisson",
+        "type": "cuisson"
+      },
+      {
+        "url": "https://www.jumia.com.tn/maison-cuisine-jardin/babyliss",
+        "type": "babyliss"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Autres pour maison et bureau",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//serviettes-de-bain",
+        "type": "Autres pour maison et bureau"
+      },
+      {
+        "url": "https://www.jumia.com.tn//maison-bureau-salle-bain",
+        "type": "Autres pour maison et bureau"
+      },
+      {
+        "url": "https://www.jumia.com.tn//maison-bureau-art-mural",
+        "type": "Autres pour maison et bureau"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Couettes et couvertures",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//mlp-cuisine-arts-culinaires/couverts-de-table",
+        "type": "Couettes et couvertures"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Tapis et Moquette",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": []
+  },
+  {
+    "id": 37,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//fers-vapeur",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Articles de fête",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 39,
+    "name": "Cadeaux",
+    "hasSubCategory": false,
+    "parent": 38,
+    "links": []
+  },
+  {
+    "id": 40,
+    "name": "Superette",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 41,
+    "name": "Sucré et Salé",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 42,
+    "name": "Ships et Snacks",
+    "hasSubCategory": false,
+    "parent": 41,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//epicerie-chips-snacks-noix",
+        "type": "Ships et Snacks"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Biscuits et Cookies",
+    "hasSubCategory": false,
+    "parent": 41,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//biscuits",
+        "type": "Biscuits et Cookies"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Boissons",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//boissons-en-bouteille-boissons-energetiques",
+        "type": "Boissons"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Eau",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//boissons-en-bouteille-eau",
+        "type": "Eau"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Jus",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//boissons-en-bouteille-jus",
+        "type": "Jus"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Soda",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 48,
+    "name": "Café et Thé",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//cafe-the-cacao-cafe",
+        "type": "Café et Thé"
+      },
+      {
+        "url": "https://www.jumia.com.tn//cafe-the-cacao-the",
+        "type": "Café et Thé"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Produits alimentaires",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//healthy-1934",
+        "type": "Produits alimentaires"
+      },
+      {
+        "url": "https://www.jumia.com.tn//repas-de-bebe",
+        "type": "Produits alimentaires"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Huile",
+    "hasSubCategory": false,
+    "parent": 49,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//epicerie-huiles-cuisson-vinaigres-sprays",
+        "type": "Huile"
+      },
+      {
+        "url": "https://www.jumia.com.tn//k-huile-dolive-vierge",
+        "type": "Huile"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Pate et Riz",
+    "hasSubCategory": false,
+    "parent": 49,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//epicerie-haricots-secs-cereales-riz",
+        "type": "Pate et Riz"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Nettoyage",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//epicerie-detachage",
+        "type": "Nettoyage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//epicerie-detergent-liquide",
+        "type": "Nettoyage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//epicerie-detergent-en-poudre",
+        "type": "Nettoyage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//k-eau-de-javel",
+        "type": "Nettoyage"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Nettoyage de cuisine",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//epicerie-nettoyeurs-cuisine",
+        "type": "Nettoyage de cuisine"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Nettoyage salle de bain",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 55,
+    "name": "Outils de nettoyage",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//accessoires-de-nettoyage",
+        "type": "Outils de nettoyage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//k-gant-latex",
+        "type": "Outils de nettoyage"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Ordinateur et Bureautique",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 57,
+    "name": "Ordinateur",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//ordinateurs-tablettes-ordinateurs-portables-traditionnels/hp",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//ordinateurs-tablettes-ordinateurs-portables-traditionnels/asus",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//ordinateurs-tablettes-ordinateurs-portables-traditionnels/dell",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//hp-15",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//hp-pavilion",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//hp-envy",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//dell-inspiron",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//asus-vivobook",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//hp-laserjet",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//asus",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//msi",
+        "type": "Ordinateur"
+      },
+      {
+        "url": "https://www.jumia.com.tn//hp",
+        "type": "Ordinateur"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Pc Portable",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//pc-portables",
+        "type": "Pc Portable"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Pc Fixe",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//informatique-ordinateurs-fixes",
+        "type": "Pc Fixe"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Pc Gamer",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": []
+  },
+  {
+    "id": 61,
+    "name": "Périphériques et accessoires",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/claviers-et-souris",
+        "type": "claviers-et-souris"
+      },
+      {
+        "url": "https://www.jumia.com.tn/son-informatique",
+        "type": "son-informatique"
+      },
+      {
+        "url": "https://www.jumia.com.tn/les-composants-ordinateur-cartes-graphiques",
+        "type": "cartes-graphiques"
+      },
+      {
+        "url": "https://www.jumia.com.tn/ordinateurs-accessoires-informatique/?q=barette+memoire",
+        "type": "barrette-memoire"
+      },
+      {
+        "url": "https://www.jumia.com.tn/ordinateurs-accessoires-informatique/?q=processeurs",
+        "type": "processeur"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Souris",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 63,
+    "name": "claviers",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 64,
+    "name": "Matériels de jeu",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 65,
+    "name": "Haut-parleur",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 66,
+    "name": "autres périphériques",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 67,
+    "name": "Supports de Stockages",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": []
+  },
+  {
+    "id": 68,
+    "name": "Disque Dur",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/disques-durs-externes",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.jumia.com.tn/stockage-donnees-disques-durs-externes-etat-solide",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.jumia.com.tn/stockage-donnees-lecteurs-zip-externes",
+        "type": "lecteurs-zip"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Flash disque",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//cles-usb",
+        "type": "Flash disque"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Carte mémoire",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//telephones-tablettes-cartes-microsd",
+        "type": "Carte mémoire"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Imprimantes et Scanner",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": []
+  },
+  {
+    "id": 72,
+    "name": "imprimante",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//imprimantes-pc",
+        "type": "imprimante"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Scanner",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//scanner",
+        "type": "Scanner"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Cartouches d'encre",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//ordinateurs-accessoires-informatique/?q=cartouches+d%27encres",
+        "type": "Cartouches d'encre"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Téléphone et Tablette",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 76,
+    "name": "Portables",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": []
+  },
+  {
+    "id": 77,
+    "name": "Smartphones",
+    "hasSubCategory": false,
+    "parent": 76,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//samsung-clear-view",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-oppo-reno-5",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-samsung-a52s",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-xiaomi-11t",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-infinix-hot-11",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-infinix-hot-11",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-boutique-samsung",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//apple",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//infinix",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//xiaomi",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//huawei",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//telephone-tablette/evertek",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//telephone-tablette/nokia",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-infinix-smart-6",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-infinix-hot-11",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-xiaomi-redmi-9a",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-xiaomi-note-11",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-samsung-a02",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-samsung-a12",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-samsung-a32",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-samsung-a52",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-samsung-m52",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-iphone-13",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-apple-iphone-13-pro",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-huawei-y5p",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-oppo-reno-5",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-huawei-y60",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-oppo-a53",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-zte-a51",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-huawei-nova-8i",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-redmi-poco-x3",
+        "type": "Smartphones"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Téléphone basic",
+    "hasSubCategory": false,
+    "parent": 76,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//telephones-portables",
+        "type": "Téléphone basic"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Tablettes",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//tablettes-tactiles",
+        "type": "Tablettes"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Tablettes",
+    "hasSubCategory": false,
+    "parent": 79,
+    "links": []
+  },
+  {
+    "id": 81,
+    "name": "Accessoires Tablettes",
+    "hasSubCategory": false,
+    "parent": 79,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//telephones-tablettes-accessoires-tablette",
+        "type": "Accessoires Tablettes"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Accessoires pour téléphone et tablette",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//telephones-tablettes-etuis-clips",
+        "type": "Accessoires pour téléphone et tablette"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Smartwatch",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//montres-connectees",
+        "type": "Smartwatch"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Pochettes",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": []
+  },
+  {
+    "id": 85,
+    "name": "Casques et écouteurs",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//telephones-tablettes-ecouteur-jack-pierce",
+        "type": "Casques et écouteurs"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Power Banque",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//power-banks",
+        "type": "Power Banque"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Chargeurs et Cables",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": []
+  },
+  {
+    "id": 88,
+    "name": "Electronique",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//electronique/samsung",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/saba",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/condor",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/tcl",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/vega",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/-telefunken",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/samsat",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/bein",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/sony",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sony",
+        "type": "Electronique"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Télévisions",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//tv-curved",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//tvs/?q=32\"",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//tvs/?q=40\"",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//tvs/?q=43\"",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//tvs/?q=55\"",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique-television-par-satellite",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//connectiques",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//accessoires-audio-video-stands-tv",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique-lecteurs-enregistreurs-dvd",
+        "type": "Télévisions"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Smart TV",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//smart-tv",
+        "type": "Smart TV"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "TV Led",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//tvs-3d",
+        "type": "TV Led"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "TV 4K",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//tv-4k",
+        "type": "TV 4K"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Audio",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//electronique-audio-portable",
+        "type": "Audio"
+      },
+      {
+        "url": "https://www.jumia.com.tn//radios",
+        "type": "Audio"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique-accessoires-audio",
+        "type": "Audio"
+      },
+      {
+        "url": "https://www.jumia.com.tn//electronique/jbl",
+        "type": "Audio"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Haut-parleur",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//enceintes",
+        "type": "Haut-parleur"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Home Cinéma",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 96,
+    "name": "Radio",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 97,
+    "name": "Ecouteurs",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//telephones-tablettes-ecouteur-jack-pierce",
+        "type": "Ecouteurs"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Appareils photos",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//photographie-sous-marine",
+        "type": "Appareils photos"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Caméras digitales",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//cameras-digitales",
+        "type": "Caméras digitales"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Caméras de surveillance",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 101,
+    "name": "Vidéo projecteur",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 102,
+    "name": "Jeux vidéos",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/ps4",
+        "type": "playstation"
+      },
+      {
+        "url": "https://www.jumia.com.tn/jeux-videos-consoles",
+        "type": "jeux-videos-consoles"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Jeux vidéo",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//jeux-video-jeux-video/?q=ps4",
+        "type": "Jeux vidéo"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-fifa-22",
+        "type": "Jeux vidéo"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Manettes",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//jeux-videos-consoles/?q=manette+ps3",
+        "type": "Manettes"
+      },
+      {
+        "url": "https://www.jumia.com.tn//manette-ps4",
+        "type": "Manettes"
+      },
+      {
+        "url": "https://www.jumia.com.tn//jeux-videos-consoles/?q=manette+pc",
+        "type": "Manettes"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Accessoires Gaming",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/jeux-videos-consoles/?q=boîtier+gaming",
+        "type": "boitier"
+      },
+      {
+        "url": "https://www.jumia.com.tn/ordinateurs-accessoires-informatique/?q=clavier+gamer",
+        "type": "clavier-gamer"
+      },
+      {
+        "url": "https://www.jumia.com.tn/ordinateurs-accessoires-informatique/?q=souris+gamer",
+        "type": "souris-gamer"
+      },
+      {
+        "url": "https://www.jumia.com.tn/ordinateurs-accessoires-informatique/?q=casque+gamer",
+        "type": "casque"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Automobile et Moto",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 107,
+    "name": "Entretien des voitures",
+    "hasSubCategory": true,
+    "parent": 106,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//confort-personnalisation",
+        "type": "Entretien des voitures"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Kits de nettoyage",
+    "hasSubCategory": false,
+    "parent": 107,
+    "links": []
+  },
+  {
+    "id": 109,
+    "name": "Outils et équipements",
+    "hasSubCategory": false,
+    "parent": 107,
+    "links": []
+  },
+  {
+    "id": 110,
+    "name": "Accessoires pour Automobile et Moto",
+    "hasSubCategory": true,
+    "parent": 106,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//equipement-interieur",
+        "type": "Accessoires pour Automobile et Moto"
+      },
+      {
+        "url": "https://www.jumia.com.tn//accessoires-d-automobiles",
+        "type": "Accessoires pour Automobile et Moto"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Pièces de rechange auto",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 112,
+    "name": "GPS",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 113,
+    "name": "Pièces de rechange Moto",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 114,
+    "name": "Pneu",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 115,
+    "name": "Vidéo de voiture",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 116,
+    "name": "Sécurité Automobile",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 117,
+    "name": "Mode",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//chaussures-garcon",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.jumia.com.tn//vetements-garcon",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.jumia.com.tn//accessoires-garcon",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.jumia.com.tn//chaussures-filles",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.jumia.com.tn//vetement-fille",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.jumia.com.tn//accessoires-fille",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-boutique-raymond-weil",
+        "type": "Mode"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Mode homme",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vetements-homme-sweat-capuche-sweat-shirts",
+        "type": "Mode homme"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Vestes et Mantaux",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//manteaux-hommes",
+        "type": "Vestes et Mantaux"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Chemises",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 121,
+    "name": "Capuches",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 122,
+    "name": "T-Shirts",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 123,
+    "name": "Pulls et Gilets",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//pulls-gilets-hommes",
+        "type": "Pulls et Gilets"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Pantalons et Jeans",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vetements-hommes-pantalons",
+        "type": "Pantalons et Jeans"
+      },
+      {
+        "url": "https://www.jumia.com.tn//jeans-homme",
+        "type": "Pantalons et Jeans"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Costumes et Cravates",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 126,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//boots-hommes",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//chaussures-de-sport",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//baskets-de-ville",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//derbies",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mocassins-chaussures-bateau-hommes",
+        "type": "Chaussures"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Accessoires mode homme",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//mode-montres-homme",
+        "type": "Accessoires mode homme"
+      },
+      {
+        "url": "https://www.jumia.com.tn//bijoux-homme",
+        "type": "Accessoires mode homme"
+      },
+      {
+        "url": "https://www.jumia.com.tn//homme-optique",
+        "type": "Accessoires mode homme"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Mode femme",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vetements-mode-hoodies-sweat-shirts",
+        "type": "Mode femme"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Vestes et Manteaux",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vestes-manteaux-blousons",
+        "type": "Vestes et Manteaux"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Pulls, Gilets et Sweat",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//pulls-gilets",
+        "type": "Pulls, Gilets et Sweat"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Robes",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//robes-femme",
+        "type": "Robes"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Jupes",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//jupes",
+        "type": "Jupes"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Combinaisons et Ensembles",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//ensembles-combinaisons",
+        "type": "Combinaisons et Ensembles"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Chaussettes, Bas et Colons",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//chaussettes-femmes",
+        "type": "Chaussettes, Bas et Colons"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Pantalons et Jeans",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 136,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//bottes-femmes",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//baskets-femmes",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//escarpins-femmes",
+        "type": "Chaussures"
+      },
+      {
+        "url": "https://www.jumia.com.tn//chaussons-pantoufles-femme",
+        "type": "Chaussures"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Accessoires mode femme",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//mode-montres-femme",
+        "type": "Accessoires mode femme"
+      },
+      {
+        "url": "https://www.jumia.com.tn//bijoux-femme",
+        "type": "Accessoires mode femme"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Bagagerie",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": []
+  },
+  {
+    "id": 139,
+    "name": "Valises",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//valises-de-voyage",
+        "type": "Valises"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Sac à Dos",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//sac-a-dos",
+        "type": "Sac à Dos"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Sac et Pochettes",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//maroquinerie",
+        "type": "Sac et Pochettes"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn/coussin-voyage",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sac-de-plage",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Sport et loisirs",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//tentes-couchages",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.jumia.com.tn//dainese",
+        "type": "Sport et loisirs"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Sport et Fitness",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//exercice-remise-en-forme",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.jumia.com.tn//musculations",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sports-loisirs/?q=football",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.jumia.com.tn//piscine-et-mer",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.jumia.com.tn//boxe-kick-boxing",
+        "type": "Sport et Fitness"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sports-loisirs/?q=yoga",
+        "type": "Sport et Fitness"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Appareils de musculation",
+    "hasSubCategory": false,
+    "parent": 144,
+    "links": []
+  },
+  {
+    "id": 146,
+    "name": "Vêtements de Sport",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 147,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 146,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vetements-mode-active",
+        "type": "Homme"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 146,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vetements-active",
+        "type": "Femme"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Chaussures de Sport",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 150,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 149,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//espadrilles-diesel",
+        "type": "Homme"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 149,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//baskets-femmes",
+        "type": "Femme"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Vélos",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//sports-loisirs/?q=velo",
+        "type": "Vélos"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Bicyclette éléctrique",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 154,
+    "name": "Bicyclette VTT",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 155,
+    "name": "Bicyclette Ville",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 156,
+    "name": "Bicyclette BMX",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 157,
+    "name": "Compléments alimentaires",
+    "hasSubCategory": false,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//nutrition",
+        "type": "Compléments alimentaires"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-proteine",
+        "type": "Compléments alimentaires"
+      },
+      {
+        "url": "https://www.jumia.com.tn//muscle-tech",
+        "type": "Compléments alimentaires"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Beauté, Santé et Cheveux",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 159,
+    "name": "Maquillage",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": []
+  },
+  {
+    "id": 160,
+    "name": "Visage",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//produits-maquillage-visage",
+        "type": "Visage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//produits-maquillage-visage",
+        "type": "Visage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//anti-cernes",
+        "type": "Visage"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Anti Cernes et Correcteurs",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 162,
+    "name": "Maquillage yeux",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//produits-maquillage-yeux",
+        "type": "Maquillage yeux"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Rouge à lévre",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//rouge-a-levres",
+        "type": "Rouge à lévre"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Vernis",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//vernis-a-ongles",
+        "type": "Vernis"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Pinceaux",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 166,
+    "name": "Accessoires Maquillages",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//accessoires-maquillage",
+        "type": "Accessoires Maquillages"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Palette de maquillage",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//coffret-maquillage",
+        "type": "Palette de maquillage"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Soins Personnels",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//huile-prodigieuse-nuxe",
+        "type": "Soins Personnels"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Visage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soin-peau-visage",
+        "type": "Visage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//soin-peau-visage",
+        "type": "Visage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-boutique-sephora",
+        "type": "Visage"
+      },
+      {
+        "url": "https://www.jumia.com.tn//bioderma",
+        "type": "Visage"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Peau",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soins-personnels-soins-peau",
+        "type": "Peau"
+      },
+      {
+        "url": "https://www.jumia.com.tn//protection-solaire",
+        "type": "Peau"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Pieds",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soins-des-pieds-pedicure",
+        "type": "Pieds"
+      },
+      {
+        "url": "https://www.jumia.com.tn//maquillage-traitements-ongles",
+        "type": "Pieds"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Cheveux",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soin-cheveux",
+        "type": "Cheveux"
+      },
+      {
+        "url": "https://www.jumia.com.tn//huile-de-monoi",
+        "type": "Cheveux"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Massage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-bien-etre-relaxation",
+        "type": "Massage"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Gommage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//gommage-exfoliant-homme",
+        "type": "Gommage"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Les essentiels",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": []
+  },
+  {
+    "id": 176,
+    "name": "Protection Solaire",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 177,
+    "name": "épilation",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//epilation-femme",
+        "type": "épilation"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Tondeuse",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//rasoirs-electriques",
+        "type": "Tondeuse"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Aprés Rasage",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soins-barbe-moustache",
+        "type": "Aprés Rasage"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Shampoing et Gel douche",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soins-personnels-accessoires-bain-bain",
+        "type": "Shampoing et Gel douche"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Coloration Cheveux",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//coloration-cheveux",
+        "type": "Coloration Cheveux"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Extensions",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soin-cheveux-extensions-perruques-accessoires",
+        "type": "Extensions"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Sèche-cheveux et Plaque",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//soin-cheveux-outils-appareils-coiffants",
+        "type": "Sèche-cheveux et Plaque"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Parfum et Déodorant",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": []
+  },
+  {
+    "id": 185,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 184,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-unisexe",
+        "type": "Homme"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-deodorants-antitranspirant",
+        "type": "Homme"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 184,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-parfums-celebrites",
+        "type": "Femme"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-parfums-celebrites",
+        "type": "Femme"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-soins-bucco-dentaires",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//sante-beaute-soins-bucco-dentaires",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//mlp-boutique-nivea",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/maybelline-new-york",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/l-oreal-professionnel",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/technic",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/pharmaceris",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//svr",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/avene",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//beaute-hygiene-sante/vichy",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.jumia.com.tn//daylong",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Café et Restaurant",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 189,
+    "name": "Café",
+    "hasSubCategory": true,
+    "parent": 188,
+    "links": []
+  },
+  {
+    "id": 190,
+    "name": "Moulin Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 191,
+    "name": "Grain de Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 192,
+    "name": "Machine café turc",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 193,
+    "name": "Machine Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//mlp-cuisine-arts-culinaires/cuisine-salle-manger-cafetieres",
+        "type": "Machine Café"
+      },
+      {
+        "url": "https://www.jumia.com.tn//cafetiere",
+        "type": "Machine Café"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "fournitures café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 195,
+    "name": "Table et Chaise",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 196,
+    "name": "Restaurant",
+    "hasSubCategory": false,
+    "parent": 188,
+    "links": []
+  },
+  {
+    "id": 197,
+    "name": "Bébé, Enfant et jouets",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//couches-toilettes-bebe",
+        "type": "Bébé, Enfant et jouets"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Jouets",
+    "hasSubCategory": true,
+    "parent": 197,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//jeux-et-jouets-1",
+        "type": "Jouets"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Bicyclettes",
+    "hasSubCategory": false,
+    "parent": 198,
+    "links": []
+  },
+  {
+    "id": 1990,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 198,
+    "links": []
+  },
+  {
+    "id": 200,
+    "name": "Vêtements",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": []
+  },
+  {
+    "id": 201,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": []
+  },
+  {
+    "id": 202,
+    "name": "Accessoires enfant",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//bebe-puericulture/bibi--chicco--farlin--mustela--nuby",
+        "type": "Accessoires enfant"
+      },
+      {
+        "url": "https://www.jumia.com.tn//produits-bebes-poussettes-accessoires",
+        "type": "Accessoires enfant"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Jardin",
+    "hasSubCategory": false,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.jumia.com.tn//arrosage",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.jumia.com.tn//jardin-plein-air-paniers-pique-nique-tables-accessoires",
+        "type": "Jardin"
+      }
+    ]
+  }
+]

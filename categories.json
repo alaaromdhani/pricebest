@@ -1,0 +1,1226 @@
+[
+    {
+      "id": 1,
+      "name": "Quincaillerie",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 2,
+      "name": "Quincaillerie",
+      "hasSubCategory": false,
+      "parent": 1
+    },
+    {
+      "id": 3,
+      "name": "Outillage",
+      "hasSubCategory": false,
+      "parent": 1
+    },
+    {
+      "id": 4,
+      "name": "Décoration Extérieur",
+      "hasSubCategory": false,
+      "parent": 1
+    },
+    {
+      "id": 5,
+      "name": "Barbecue",
+      "hasSubCategory": false,
+      "parent": 1
+    },
+    {
+      "id": 6,
+      "name": "Appareil de mésure",
+      "hasSubCategory": false,
+      "parent": 1
+    },
+    {
+      "id": 7,
+      "name": "piscine",
+      "hasSubCategory": false,
+      "parent": 1
+    },
+    {
+      "id": 8,
+      "name": "Maison et Bureau",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 9,
+      "name": "Cuisine",
+      "hasSubCategory": true,
+      "parent": 8
+    },
+    {
+      "id": 10,
+      "name": "Ustensiles",
+      "hasSubCategory": false,
+      "parent": 9
+    },
+    {
+      "id": 11,
+      "name": "Cuisine personalisée",
+      "hasSubCategory": false,
+      "parent": 9
+    },
+    {
+      "id": 12,
+      "name": "Rangement de Cuisine",
+      "hasSubCategory": false,
+      "parent": 9
+    },
+    {
+      "id": 13,
+      "name": "Batterie de cuisine",
+      "hasSubCategory": false,
+      "parent": 9
+    },
+    {
+      "id": 14,
+      "name": "Autres",
+      "hasSubCategory": false,
+      "parent": 9
+    },
+    {
+      "id": 15,
+      "name": "Meuble",
+      "hasSubCategory": true,
+      "parent": 8
+    },
+    {
+      "id": 16,
+      "name": "Salon",
+      "hasSubCategory": false,
+      "parent": 15
+    },
+    {
+      "id": 17,
+      "name": "Literie et Matelas",
+      "hasSubCategory": false,
+      "parent": 15
+    },
+    {
+      "id": 18,
+      "name": "Placard et Dressing",
+      "hasSubCategory": false,
+      "parent": 15
+    },
+    {
+      "id": 19,
+      "name": "Bureau",
+      "hasSubCategory": false,
+      "parent": 15
+    },
+    {
+      "id": 20,
+      "name": "Autres",
+      "hasSubCategory": false,
+      "parent": 15
+    },
+    {
+      "id": 21,
+      "name": "Electroménager",
+      "hasSubCategory": true,
+      "parent": 8
+    },
+    {
+      "id": 22,
+      "name": "Réfrigirateur",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 23,
+      "name": "Machine à laver",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 24,
+      "name": "Gaz et Hotte",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 25,
+      "name": "Four éléctrique",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 26,
+      "name": "Micro-onde",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 27,
+      "name": "Climatiseur et Chauffage",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 28,
+      "name": "Lave vaisselle",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 29,
+      "name": "Robots de cuisine",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 30,
+      "name": "Mixeur et Mélangeur",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 31,
+      "name": "Créperie et Gaufrier",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 32,
+      "name": "Ventillateur",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 33,
+      "name": "Autre",
+      "hasSubCategory": false,
+      "parent": 21
+    },
+    {
+      "id": 34,
+      "name": "Autres pour maison et bureau",
+      "hasSubCategory": true,
+      "parent": 8
+    },
+    {
+      "id": 35,
+      "name": "Couettes et couvertures",
+      "hasSubCategory": false,
+      "parent": 34
+    },
+    {
+      "id": 36,
+      "name": "Tapis et Moquette",
+      "hasSubCategory": false,
+      "parent": 34
+    },
+    {
+      "id": 37,
+      "name": "Autres",
+      "hasSubCategory": false,
+      "parent": 34
+    },
+    {
+      "id": 38,
+      "name": "Articles de fête",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 39,
+      "name": "Cadeaux",
+      "hasSubCategory": false,
+      "parent": 38
+    },
+    {
+      "id": 40,
+      "name": "Superette",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 41,
+      "name": "Sucré et Salé",
+      "hasSubCategory": true,
+      "parent": 40
+    },
+    {
+      "id": 42,
+      "name": "Ships et Snacks",
+      "hasSubCategory": false,
+      "parent": 41
+    },
+    {
+      "id": 43,
+      "name": "Biscuits et Cookies",
+      "hasSubCategory": false,
+      "parent": 41
+    },
+    {
+      "id": 44,
+      "name": "Boissons",
+      "hasSubCategory": true,
+      "parent": 40
+    },
+    {
+      "id": 45,
+      "name": "Eau",
+      "hasSubCategory": false,
+      "parent": 44
+    },
+    {
+      "id": 46,
+      "name": "Jus",
+      "hasSubCategory": false,
+      "parent": 44
+    },
+    {
+      "id": 47,
+      "name": "Soda",
+      "hasSubCategory": false,
+      "parent": 44
+    },
+    {
+      "id": 48,
+      "name": "Café et Thé",
+      "hasSubCategory": false,
+      "parent": 44
+    },
+    {
+      "id": 49,
+      "name": "Produits alimentaires",
+      "hasSubCategory": true,
+      "parent": 40
+    },
+    {
+      "id": 50,
+      "name": "Huile",
+      "hasSubCategory": false,
+      "parent": 49
+    },
+    {
+      "id": 51,
+      "name": "Pate et Riz",
+      "hasSubCategory": false,
+      "parent": 49
+    },
+    {
+      "id": 52,
+      "name": "Nettoyage",
+      "hasSubCategory": true,
+      "parent": 40
+    },
+    {
+      "id": 53,
+      "name": "Nettoyage de cuisine",
+      "hasSubCategory": false,
+      "parent": 52
+    },
+    {
+      "id": 54,
+      "name": "Nettoyage salle de bain",
+      "hasSubCategory": false,
+      "parent": 52
+    },
+    {
+      "id": 55,
+      "name": "Outils de nettoyage",
+      "hasSubCategory": false,
+      "parent": 52
+    },
+    {
+      "id": 56,
+      "name": "Ordinateur et Bureautique",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 57,
+      "name": "Ordinateur",
+      "hasSubCategory": true,
+      "parent": 56
+    },
+    {
+      "id": 58,
+      "name": "Pc Portable",
+      "hasSubCategory": false,
+      "parent": 57
+    },
+    {
+      "id": 59,
+      "name": "Pc Fixe",
+      "hasSubCategory": false,
+      "parent": 57
+    },
+    {
+      "id": 60,
+      "name": "Pc Gamer",
+      "hasSubCategory": false,
+      "parent": 57
+    },
+    {
+      "id": 61,
+      "name": "Périphériques et accessoires",
+      "hasSubCategory": true,
+      "parent": 56
+    },
+    {
+      "id": 62,
+      "name": "Souris",
+      "hasSubCategory": false,
+      "parent": 61
+    },
+    {
+      "id": 63,
+      "name": "claviers",
+      "hasSubCategory": false,
+      "parent": 61
+    },
+    {
+      "id": 64,
+      "name": "Matériels de jeu",
+      "hasSubCategory": false,
+      "parent": 61
+    },
+    {
+      "id": 65,
+      "name": "Haut-parleur",
+      "hasSubCategory": false,
+      "parent": 61
+    },
+    {
+      "id": 66,
+      "name": "autres périphériques",
+      "hasSubCategory": false,
+      "parent": 61
+    },
+    {
+      "id": 67,
+      "name": "Supports de Stockages",
+      "hasSubCategory": true,
+      "parent": 56
+    },
+    {
+      "id": 68,
+      "name": "Disque Dur",
+      "hasSubCategory": false,
+      "parent": 67
+    },
+    {
+      "id": 69,
+      "name": "Flash disque",
+      "hasSubCategory": false,
+      "parent": 67
+    },
+    {
+      "id": 70,
+      "name": "Carte mémoire",
+      "hasSubCategory": false,
+      "parent": 67
+    },
+    {
+      "id": 71,
+      "name": "Imprimantes et Scanner",
+      "hasSubCategory": true,
+      "parent": 56
+    },
+    {
+      "id": 72,
+      "name": "imprimante",
+      "hasSubCategory": false,
+      "parent": 71
+    },
+    {
+      "id": 73,
+      "name": "Scanner",
+      "hasSubCategory": false,
+      "parent": 71
+    },
+    {
+      "id": 74,
+      "name": "Cartouches d'encre",
+      "hasSubCategory": false,
+      "parent": 71
+    },
+    {
+      "id": 75,
+      "name": "Téléphone et Tablette",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 76,
+      "name": "Portables",
+      "hasSubCategory": true,
+      "parent": 75
+    },
+    {
+      "id": 77,
+      "name": "Smartphones",
+      "hasSubCategory": false,
+      "parent": 76
+    },
+    {
+      "id": 78,
+      "name": "Téléphone basic",
+      "hasSubCategory": false,
+      "parent": 76
+    },
+    {
+      "id": 79,
+      "name": "Tablettes",
+      "hasSubCategory": true,
+      "parent": 75
+    },
+    {
+      "id": 80,
+      "name": "Tablettes",
+      "hasSubCategory": false,
+      "parent": 79
+    },
+    {
+      "id": 81,
+      "name": "Accessoires Tablettes",
+      "hasSubCategory": false,
+      "parent": 79
+    },
+    {
+      "id": 82,
+      "name": "Accessoires pour téléphone et tablette",
+      "hasSubCategory": true,
+      "parent": 75
+    },
+    {
+      "id": 83,
+      "name": "Smartwatch",
+      "hasSubCategory": false,
+      "parent": 82
+    },
+    {
+      "id": 84,
+      "name": "Pochettes",
+      "hasSubCategory": false,
+      "parent": 82
+    },
+    {
+      "id": 85,
+      "name": "Casques et écouteurs",
+      "hasSubCategory": false,
+      "parent": 82
+    },
+    {
+      "id": 86,
+      "name": "Power Banque",
+      "hasSubCategory": false,
+      "parent": 82
+    },
+    {
+      "id": 87,
+      "name": "Chargeurs et Cables",
+      "hasSubCategory": false,
+      "parent": 82
+    },
+    {
+      "id": 88,
+      "name": "Electronique",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 89,
+      "name": "Télévisions",
+      "hasSubCategory": true,
+      "parent": 88
+    },
+    {
+      "id": 90,
+      "name": "Smart TV",
+      "hasSubCategory": false,
+      "parent": 89
+    },
+    {
+      "id": 91,
+      "name": "TV Led",
+      "hasSubCategory": false,
+      "parent": 89
+    },
+    {
+      "id": 92,
+      "name": "TV 4K",
+      "hasSubCategory": false,
+      "parent": 89
+    },
+    {
+      "id": 93,
+      "name": "Audio",
+      "hasSubCategory": true,
+      "parent": 88
+    },
+    {
+      "id": 94,
+      "name": "Haut-parleur",
+      "hasSubCategory": false,
+      "parent": 93
+    },
+    {
+      "id": 95,
+      "name": "Home Cinéma",
+      "hasSubCategory": false,
+      "parent": 93
+    },
+    {
+      "id": 96,
+      "name": "Radio",
+      "hasSubCategory": false,
+      "parent": 93
+    },
+    {
+      "id": 97,
+      "name": "Ecouteurs",
+      "hasSubCategory": false,
+      "parent": 93
+    },
+    {
+      "id": 98,
+      "name": "Appareils photos",
+      "hasSubCategory": true,
+      "parent": 88
+    },
+    {
+      "id": 99,
+      "name": "Caméras digitales",
+      "hasSubCategory": false,
+      "parent": 98
+    },
+    {
+      "id": 100,
+      "name": "Caméras de surveillance",
+      "hasSubCategory": false,
+      "parent": 98
+    },
+    {
+      "id": 101,
+      "name": "Vidéo projecteur",
+      "hasSubCategory": false,
+      "parent": 98
+    },
+    {
+      "id": 102,
+      "name": "Jeux vidéos",
+      "hasSubCategory": true,
+      "parent": 88
+    },
+    {
+      "id": 103,
+      "name": "Jeux vidéo",
+      "hasSubCategory": false,
+      "parent": 102
+    },
+    {
+      "id": 104,
+      "name": "Manettes",
+      "hasSubCategory": false,
+      "parent": 102
+    },
+    {
+      "id": 105,
+      "name": "Accessoires Gaming",
+      "hasSubCategory": false,
+      "parent": 102
+    },
+    {
+      "id": 106,
+      "name": "Automobile et Moto",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 107,
+      "name": "Entretien des voitures",
+      "hasSubCategory": true,
+      "parent": 106
+    },
+    {
+      "id": 108,
+      "name": "Kits de nettoyage",
+      "hasSubCategory": false,
+      "parent": 107
+    },
+    {
+      "id": 109,
+      "name": "Outils et équipements",
+      "hasSubCategory": false,
+      "parent": 107
+    },
+    {
+      "id": 110,
+      "name": "Accessoires pour Automobile et Moto",
+      "hasSubCategory": true,
+      "parent": 106
+    },
+    {
+      "id": 111,
+      "name": "Pièces de rechange auto",
+      "hasSubCategory": false,
+      "parent": 110
+    },
+    {
+      "id": 112,
+      "name": "GPS",
+      "hasSubCategory": false,
+      "parent": 110
+    },
+    {
+      "id": 113,
+      "name": "Pièces de rechange Moto",
+      "hasSubCategory": false,
+      "parent": 110
+    },
+    {
+      "id": 114,
+      "name": "Pneu",
+      "hasSubCategory": false,
+      "parent": 110
+    },
+    {
+      "id": 115,
+      "name": "Vidéo de voiture",
+      "hasSubCategory": false,
+      "parent": 110
+    },
+    {
+      "id": 116,
+      "name": "Sécurité Automobile",
+      "hasSubCategory": false,
+      "parent": 110
+    },
+    {
+      "id": 117,
+      "name": "Mode",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 118,
+      "name": "Mode homme",
+      "hasSubCategory": true,
+      "parent": 117
+    },
+    {
+      "id": 119,
+      "name": "Vestes et Mantaux",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 120,
+      "name": "Chemises",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 121,
+      "name": "Capuches",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 122,
+      "name": "T-Shirts",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 123,
+      "name": "Pulls et Gilets",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 124,
+      "name": "Pantalons et Jeans",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 125,
+      "name": "Costumes et Cravates",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 126,
+      "name": "Chaussures",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 127,
+      "name": "Accessoires mode homme",
+      "hasSubCategory": false,
+      "parent": 118
+    },
+    {
+      "id": 128,
+      "name": "Mode femme",
+      "hasSubCategory": true,
+      "parent": 117
+    },
+    {
+      "id": 129,
+      "name": "Vestes et Manteaux",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 130,
+      "name": "Pulls, Gilets et Sweat",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 131,
+      "name": "Robes",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 132,
+      "name": "Jupes",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 133,
+      "name": "Combinaisons et Ensembles",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 134,
+      "name": "Chaussettes, Bas et Colons",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 135,
+      "name": "Pantalons et Jeans",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 136,
+      "name": "Chaussures",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 137,
+      "name": "Accessoires mode femme",
+      "hasSubCategory": false,
+      "parent": 128
+    },
+    {
+      "id": 138,
+      "name": "Bagagerie",
+      "hasSubCategory": true,
+      "parent": 117
+    },
+    {
+      "id": 139,
+      "name": "Valises",
+      "hasSubCategory": false,
+      "parent": 138
+    },
+    {
+      "id": 140,
+      "name": "Sac à Dos",
+      "hasSubCategory": false,
+      "parent": 138
+    },
+    {
+      "id": 141,
+      "name": "Sac et Pochettes",
+      "hasSubCategory": false,
+      "parent": 138
+    },
+    {
+      "id": 142,
+      "name": "Autres",
+      "hasSubCategory": false,
+      "parent": 138
+    },
+    {
+      "id": 143,
+      "name": "Sport et loisirs",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 144,
+      "name": "Sport et Fitness",
+      "hasSubCategory": true,
+      "parent": 143
+    },
+    {
+      "id": 145,
+      "name": "Appareils de musculation",
+      "hasSubCategory": false,
+      "parent": 144
+    },
+    {
+      "id": 146,
+      "name": "Vêtements de Sport",
+      "hasSubCategory": true,
+      "parent": 143
+    },
+    {
+      "id": 147,
+      "name": "Homme",
+      "hasSubCategory": false,
+      "parent": 146
+    },
+    {
+      "id": 148,
+      "name": "Femme",
+      "hasSubCategory": false,
+      "parent": 146
+    },
+    {
+      "id": 149,
+      "name": "Chaussures de Sport",
+      "hasSubCategory": true,
+      "parent": 143
+    },
+    {
+      "id": 150,
+      "name": "Homme",
+      "hasSubCategory": false,
+      "parent": 149
+    },
+    {
+      "id": 151,
+      "name": "Femme",
+      "hasSubCategory": false,
+      "parent": 149
+    },
+    {
+      "id": 152,
+      "name": "Vélos",
+      "hasSubCategory": true,
+      "parent": 143
+    },
+    {
+      "id": 153,
+      "name": "Bicyclette éléctrique",
+      "hasSubCategory": false,
+      "parent": 152
+    },
+    {
+      "id": 154,
+      "name": "Bicyclette VTT",
+      "hasSubCategory": false,
+      "parent": 152
+    },
+    {
+      "id": 155,
+      "name": "Bicyclette Ville",
+      "hasSubCategory": false,
+      "parent": 152
+    },
+    {
+      "id": 156,
+      "name": "Bicyclette BMX",
+      "hasSubCategory": false,
+      "parent": 152
+    },
+    {
+      "id": 157,
+      "name": "Compléments alimentaires",
+      "hasSubCategory": false,
+      "parent": 143
+    },
+    {
+      "id": 158,
+      "name": "Beauté, Santé et Cheveux",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 159,
+      "name": "Maquillage",
+      "hasSubCategory": true,
+      "parent": 158
+    },
+    {
+      "id": 160,
+      "name": "Visage",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 161,
+      "name": "Anti Cernes et Correcteurs",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 162,
+      "name": "Maquillage yeux",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 163,
+      "name": "Rouge à lévre",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 164,
+      "name": "Vernis",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 165,
+      "name": "Pinceaux",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 166,
+      "name": "Accessoires Maquillages",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 167,
+      "name": "Palette de maquillage",
+      "hasSubCategory": false,
+      "parent": 159
+    },
+    {
+      "id": 168,
+      "name": "Soins Personnels",
+      "hasSubCategory": true,
+      "parent": 158
+    },
+    {
+      "id": 169,
+      "name": "Visage",
+      "hasSubCategory": false,
+      "parent": 168
+    },
+    {
+      "id": 170,
+      "name": "Peau",
+      "hasSubCategory": false,
+      "parent": 168
+    },
+    {
+      "id": 171,
+      "name": "Pieds",
+      "hasSubCategory": false,
+      "parent": 168
+    },
+    {
+      "id": 172,
+      "name": "Cheveux",
+      "hasSubCategory": false,
+      "parent": 168
+    },
+    {
+      "id": 173,
+      "name": "Massage",
+      "hasSubCategory": false,
+      "parent": 168
+    },
+    {
+      "id": 174,
+      "name": "Gommage",
+      "hasSubCategory": false,
+      "parent": 168
+    },
+    {
+      "id": 175,
+      "name": "Les essentiels",
+      "hasSubCategory": true,
+      "parent": 158
+    },
+    {
+      "id": 176,
+      "name": "Protection Solaire",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 177,
+      "name": "épilation",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 178,
+      "name": "Tondeuse",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 179,
+      "name": "Aprés Rasage",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 180,
+      "name": "Shampoing et Gel douche",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 181,
+      "name": "Coloration Cheveux",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 182,
+      "name": "Extensions",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 183,
+      "name": "Sèche-cheveux et Plaque",
+      "hasSubCategory": false,
+      "parent": 175
+    },
+    {
+      "id": 184,
+      "name": "Parfum et Déodorant",
+      "hasSubCategory": true,
+      "parent": 158
+    },
+    {
+      "id": 185,
+      "name": "Homme",
+      "hasSubCategory": false,
+      "parent": 184
+    },
+    {
+      "id": 186,
+      "name": "Femme",
+      "hasSubCategory": false,
+      "parent": 184
+    },
+    {
+      "id": 187,
+      "name": "Autres",
+      "hasSubCategory": false,
+      "parent": 158
+    },
+    {
+      "id": 188,
+      "name": "Café et Restaurant",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 189,
+      "name": "Café",
+      "hasSubCategory": true,
+      "parent": 188
+    },
+    {
+      "id": 190,
+      "name": "Moulin Café",
+      "hasSubCategory": false,
+      "parent": 189
+    },
+    {
+      "id": 191,
+      "name": "Grain de Café",
+      "hasSubCategory": false,
+      "parent": 189
+    },
+    {
+      "id": 192,
+      "name": "Machine café turc",
+      "hasSubCategory": false,
+      "parent": 189
+    },
+    {
+      "id": 193,
+      "name": "Machine Café",
+      "hasSubCategory": false,
+      "parent": 189
+    },
+    {
+      "id": 194,
+      "name": "fournitures café",
+      "hasSubCategory": false,
+      "parent": 189
+    },
+    {
+      "id": 195,
+      "name": "Table et Chaise",
+      "hasSubCategory": false,
+      "parent": 189
+    },
+    {
+      "id": 196,
+      "name": "Restaurant",
+      "hasSubCategory": false,
+      "parent": 188
+    },
+    {
+      "id": 197,
+      "name": "Bébé, Enfant et jouets",
+      "hasSubCategory": true,
+      "parent": 0
+    },
+    {
+      "id": 198,
+      "name": "Jouets",
+      "hasSubCategory": true,
+      "parent": 197
+    },
+    {
+      "id": 199,
+      "name": "Bicyclettes",
+      "hasSubCategory": false,
+      "parent": 198
+    },
+    {
+      "id": 1990,
+      "name": "Autres",
+      "hasSubCategory": false,
+      "parent": 198
+    },
+    {
+      "id": 200,
+      "name": "Vêtements",
+      "hasSubCategory": false,
+      "parent": 197
+    },
+    {
+      "id": 201,
+      "name": "Chaussures",
+      "hasSubCategory": false,
+      "parent": 197
+    },
+    {
+      "id": 202,
+      "name": "Accessoires enfant",
+      "hasSubCategory": false,
+      "parent": 197
+    },
+    {
+      "id": 203,
+      "name": "Jardin",
+      "hasSubCategory": false,
+      "parent": 0
+    }
+  ]

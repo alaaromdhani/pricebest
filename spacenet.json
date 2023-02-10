@@ -1,0 +1,2744 @@
+[
+  {
+    "id": 1,
+    "name": "Quincaillerie",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/535-divers",
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Quincaillerie",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 3001,
+    "name": "eclairage",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/622-lustres",
+        "type": "lustres"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/421-projecteur-led",
+        "type": "projecteur-led"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/420-lampe-led",
+        "type": "lampe-led"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/534-eclairage-de-plafond",
+        "type": "eclairage-de-plafond"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/560-lampe-torche",
+        "type": "eclairage-lanternes-torches"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Outillage",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/550-outils-de-bricolage",
+        "type": "outils-de-bricolage"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Décoration Extérieur",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 5,
+    "name": "Barbecue",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/417-barbecue",
+        "type": "barbecue"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Appareil de mésure",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 7,
+    "name": "piscine",
+    "hasSubCategory": false,
+    "parent": 1,
+    "links": []
+  },
+  {
+    "id": 8,
+    "name": "Maison et Bureau",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/525-nourriture",
+        "type": "nourriture"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/526-hygiene",
+        "type": "hygiene"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/527-accessoires",
+        "type": "accessoires"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/441-etiqueteuse",
+        "type": "etiqueteuse"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/551-destructeur",
+        "type": "destructeur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/265-classeur",
+        "type": "classeur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/266-chemise-sous-chemise",
+        "type": "chemise-papiers"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/329-porte-documents",
+        "type": "329-porte-documents"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/331-corbeille-a-courrier",
+        "type": "corbeille"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/503-rangement",
+        "type": "503-rangement"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/519-boite-d-archive",
+        "type": "boite-d-archives"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/65-cahier-bloc-notes",
+        "type": "cahier-feuille"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/343-post-it",
+        "type": "343-post-it"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/344-etiquette",
+        "type": "etiqueteuse"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/347-papier-a4",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/522-papier-a3",
+        "type": "papiers"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/548-papier-thermique",
+        "type": "fax"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/375-tableaux-en-liege",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/376-tableaux-blancs",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/377-tableaux-vitrine",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/378-tableaux-a-craie",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/379-accessoires-tableaux",
+        "type": "tableaux"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/67-stylo",
+        "type": "stylos-crayons"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/267-corbeille",
+        "type": "corbeille"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/290-calculatrice",
+        "type": "calculatrice"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/367-marqueur",
+        "type": "367-marqueur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/368-correction",
+        "type": "368-correction"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/369-crayon",
+        "type": "stylos-crayons"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/501-plastifieuse",
+        "type": "plastifieuse"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/502-destructeurs",
+        "type": "destructeur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/556-divers",
+        "type": "556-divers"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/352-decoupe",
+        "type": "352-decoupe"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/354-perforateur",
+        "type": "354-perforateur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/357-rouleau-scotch",
+        "type": "357-rouleau-scotch"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/358-reliure-spiral",
+        "type": "358-reliure-spiral"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/360-trombone-pince",
+        "type": "360-trombone-pince"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/499-agrafage-bracelet-elastique",
+        "type": "agrafage"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/504-colle",
+        "type": "colle"
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "name": "Décoration",
+    "hasSubCategory": false,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/302-decoration-jardin",
+        "type": "decoration-jardin"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cuisine",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/578-menagere",
+        "type": "menagere"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/490-service-a-table",
+        "type": "service-a-table"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/494-service-des-boissons",
+        "type": "service-des-boissons"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/518-boite-de-conservation",
+        "type": "boite-de-conservation"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/416-divers",
+        "type": "divers"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Ustensiles",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/491-service-a-cafe",
+        "type": "service-a-cafe"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Cuisine personalisée",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 12,
+    "name": "Rangement de Cuisine",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 13,
+    "name": "Batterie de cuisine",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/492-casseroles-poeles-cocottes",
+        "type": "maaoon"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/493-plats-a-four",
+        "type": "plats-pour-le-four"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 9,
+    "links": []
+  },
+  {
+    "id": 15,
+    "name": "Meuble",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/158-chambre-pour-enfant",
+        "type": "chambre"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/385-table-de-plage",
+        "type": "tables-tables"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/430-meuble-de-cuisine",
+        "type": "meuble-de-cuisine"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/284-meuble-d-entree",
+        "type": "meuble-d-entree"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/152-porte-chaussures",
+        "type": "porte-chaussures"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/268-chaise-de-jardin",
+        "type": "chaises"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Salon",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/283-meuble-tv",
+        "type": "meuble-tv"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Literie et Matelas",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/558-matelas-oreillers",
+        "type": "linge-de-maison"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Placard et Dressing",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/136-armoire",
+        "type": "armoire"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/135-porte-manteau",
+        "type": "porte-manteau"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bureau",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/134-bureau",
+        "type": "bureau"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/133-chaise",
+        "type": "chaise"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/532-table-de-reunion",
+        "type": "table"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 15,
+    "links": []
+  },
+  {
+    "id": 21,
+    "name": "Electroménager",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": []
+  },
+  {
+    "id": 22,
+    "name": "Réfrigirateur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/195-refrigerateur",
+        "type": "refrigerateurs"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/226-congelateur",
+        "type": "congelateur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/614-mini-bar",
+        "type": "mini-bar"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Machine à laver",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 24,
+    "name": "Gaz et Hotte",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/230-hotte",
+        "type": "hottes-cuisiniere"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/228-cuisiniere",
+        "type": "hottes-cuisiniere"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Four éléctrique",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 26,
+    "name": "Micro-onde",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/190-micro-onde",
+        "type": "micro-onde"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Climatiseur et Chauffage",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/160-climatiseur-tunisie-chaud-froid",
+        "type": "climatiseur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/320-climeur",
+        "type": "climeur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/270-chauffe-bain",
+        "type": "chauffe-bain"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/237-chauffage",
+        "type": "chauffage"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/615-chaudiere",
+        "type": "chaudiere"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/489-purificateur-d-air",
+        "type": "purificateur-d-air"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/606-accessoires-climatiseur",
+        "type": "climatiseur"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Lave vaisselle",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 29,
+    "name": "Robots de cuisine",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 30,
+    "name": "Mixeur et Mélangeur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 31,
+    "name": "Créperie et Gaufrier",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": []
+  },
+  {
+    "id": 32,
+    "name": "Ventillateur",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/318-ventilateur",
+        "type": "ventilateur-domestique"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Autres Electromenager",
+    "hasSubCategory": false,
+    "parent": 21,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/373-fontaine",
+        "type": "fontaine"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/229-four",
+        "type": "fours"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/249-plaque-de-cuisson",
+        "type": "cuisson"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Autres pour maison et bureau",
+    "hasSubCategory": true,
+    "parent": 8,
+    "links": []
+  },
+  {
+    "id": 35,
+    "name": "Couettes et couvertures",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": []
+  },
+  {
+    "id": 36,
+    "name": "Tapis et Moquette",
+    "hasSubCategory": false,
+    "parent": 34,
+    "links": []
+  },
+  {
+    "id": 38,
+    "name": "Articles de fête",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 39,
+    "name": "Cadeaux",
+    "hasSubCategory": false,
+    "parent": 38,
+    "links": []
+  },
+  {
+    "id": 40,
+    "name": "Superette",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 41,
+    "name": "Sucré et Salé",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 42,
+    "name": "Ships et Snacks",
+    "hasSubCategory": false,
+    "parent": 41,
+    "links": []
+  },
+  {
+    "id": 43,
+    "name": "Biscuits et Cookies",
+    "hasSubCategory": false,
+    "parent": 41,
+    "links": []
+  },
+  {
+    "id": 44,
+    "name": "Boissons",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 45,
+    "name": "Eau",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 46,
+    "name": "Jus",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 47,
+    "name": "Soda",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 48,
+    "name": "Café et Thé",
+    "hasSubCategory": false,
+    "parent": 44,
+    "links": []
+  },
+  {
+    "id": 49,
+    "name": "Produits alimentaires",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": []
+  },
+  {
+    "id": 50,
+    "name": "Huile",
+    "hasSubCategory": false,
+    "parent": 49,
+    "links": []
+  },
+  {
+    "id": 51,
+    "name": "Pate et Riz",
+    "hasSubCategory": false,
+    "parent": 49,
+    "links": []
+  },
+  {
+    "id": 52,
+    "name": "Nettoyage",
+    "hasSubCategory": true,
+    "parent": 40,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/426-produit-menager",
+        "type": "Nettoyage"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Nettoyage de cuisine",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 54,
+    "name": "Nettoyage salle de bain",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 55,
+    "name": "Outils de nettoyage",
+    "hasSubCategory": false,
+    "parent": 52,
+    "links": []
+  },
+  {
+    "id": 56,
+    "name": "Ordinateur et Bureautique",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/280-4g-box-cle-4g-ooredoo",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/39-switch-routeur-point-d-acces",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/87-fax-laser",
+        "type": "fax"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/88-fax-thermique",
+        "type": "fax"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/146-serveurs-hp",
+        "type": "serveurs"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/147-serveur-rack",
+        "type": "serveurs"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/297-station-de-travail",
+        "type": "station-de-travail"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/62-anti-virus",
+        "type": "anti-virus"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/86-bureautique",
+        "type": "bureautique"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/126-tiroir-caisse-enregistreuse",
+        "type": "caisse"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/127-imprimante-point-de-vente",
+        "type": "switch-routeur-point-d-acces"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/129-douchette",
+        "type": "douchette"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Ordinateur",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": []
+  },
+  {
+    "id": 58,
+    "name": "Pc Portable",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/74-pc-portable",
+        "type": "Pc Portable"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/321-pc-portables-pro",
+        "type": "Pc Portable"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/213-apple-macbook",
+        "type": "Pc Portable"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Pc Fixe",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/79-pc-bureau",
+        "type": "Pc Fixe"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/80-pc-all-in-one",
+        "type": "Pc Fixe"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/214-imac",
+        "type": "Pc Fixe"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/82-ecran-ordinateur-tunisie",
+        "type": "Pc Fixe"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Pc Gamer",
+    "hasSubCategory": false,
+    "parent": 57,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/83-pc-gamer-tunisie",
+        "type": "Pc Gamer"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/204-ordinateur-portable-gamer-tunisie",
+        "type": "Pc Gamer"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/205-ordinateur-de-bureau-gamer-tunisie",
+        "type": "Pc Gamer"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Périphériques et accessoires",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/100-carte-reseau",
+        "type": "carte-reseau"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/78-chargeur-pc",
+        "type": "chargeur-pc"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/561-casque",
+        "type": "casque"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/334-accessoires-divers",
+        "type": "334-accessoires-divers"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/336-refroidisseurs",
+        "type": "refroidisseur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/340-clavier-souris",
+        "type": "claviers-et-souris"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/497-web-cam",
+        "type": "497-web-cam"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/566-accessoires-visioconference",
+        "type": "334-accessoires-divers"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/20-processeur",
+        "type": "processeur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/21-carte-graphique",
+        "type": "cartes-graphiques"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/22-carte-mere",
+        "type": "carte-mere"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/25-barrette-memoire",
+        "type": "barrette-memoire"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/27-boitier",
+        "type": "27-boitier"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/37-ventilo",
+        "type": "ventilo"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/41-alimentation",
+        "type": "41-alimentation"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/258-lecteur-cd-dvd",
+        "type": "lecteur-cd-dvd"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/325-afficheur-pc-portable",
+        "type": "afficheur"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/326-batterie-pc-portable",
+        "type": "batterie-pc"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/531-chargeur-pc-portable",
+        "type": "chargeur-pc"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/397-cartes-graphiques",
+        "type": "cartes-graphiques"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Souris",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 63,
+    "name": "claviers",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 64,
+    "name": "Matériels de jeu",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 65,
+    "name": "Haut-parleur",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 66,
+    "name": "autres périphériques",
+    "hasSubCategory": false,
+    "parent": 61,
+    "links": []
+  },
+  {
+    "id": 67,
+    "name": "Supports de Stockages",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/476-serveur-de-stockage",
+        "type": "Supports de Stockages"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/48-lecteur-de-carte",
+        "type": "Supports de Stockages"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/273-cd-dvd",
+        "type": "Supports de Stockages"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/362-accessoires-stockage",
+        "type": "Supports de Stockages"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Disque Dur",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/24-disque-dur-interne",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/101-disque-dur-externe",
+        "type": "disques-durs"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/236-disque-dur-ssd",
+        "type": "disque-dur-ssd"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/246-disque-surveillance",
+        "type": "disque-dur-videosurveillance"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Flash disque",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/28-flash-disque",
+        "type": "Flash disque"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Carte mémoire",
+    "hasSubCategory": false,
+    "parent": 67,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/104-carte-memoire",
+        "type": "Carte mémoire"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Imprimantes et Scanner",
+    "hasSubCategory": true,
+    "parent": 56,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/118-accessoires-photocopieurs",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/316-photocopieurs-a4-tunisie",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/319-photocopieurs-a3",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/109-toner",
+        "type": "Imprimantes et Scanner"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/110-ruban",
+        "type": "Imprimantes et Scanner"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "imprimante",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/58-imprimante-multifonction-jet-d-encre",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/92-imprimante-multifonction-laser",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/131-imprimante-matricielle",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/150-imprimante-a-reservoir-integre",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/285-imprimante-thermique",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/286-accessoires-imprimantes",
+        "type": "imprimante"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/559-traceurs",
+        "type": "imprimante"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Scanner",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/98-scanner-a-plat",
+        "type": "Scanner"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/242-scanner-a-defilement",
+        "type": "Scanner"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Cartouches d'encre",
+    "hasSubCategory": false,
+    "parent": 71,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/94-cartouche-imprimante",
+        "type": "Cartouches d'encre"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/97-bouteille-d-encre",
+        "type": "Cartouches d'encre"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Téléphone et Tablette",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/207-telephone-sans-fil-dect",
+        "type": "Téléphone et Tablette"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/208-telephone-filaire",
+        "type": "Téléphone et Tablette"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Portables",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": []
+  },
+  {
+    "id": 77,
+    "name": "Smartphones",
+    "hasSubCategory": false,
+    "parent": 76,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/89-telephone-portable-tunisie",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/130-smartphone-android-tunisie",
+        "type": "Smartphones"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/211-iphone",
+        "type": "Smartphones"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Téléphone basic",
+    "hasSubCategory": false,
+    "parent": 76,
+    "links": []
+  },
+  {
+    "id": 79,
+    "name": "Tablettes",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": []
+  },
+  {
+    "id": 80,
+    "name": "Tablettes",
+    "hasSubCategory": false,
+    "parent": 79,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/15-tablette-android-tunisie",
+        "type": "Tablettes"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/433-tablettes-graphique-Tunisie",
+        "type": "Tablettes"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/215-ipad",
+        "type": "Tablettes"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Accessoires Tablettes",
+    "hasSubCategory": false,
+    "parent": 79,
+    "links": []
+  },
+  {
+    "id": 82,
+    "name": "Accessoires pour téléphone et tablette",
+    "hasSubCategory": true,
+    "parent": 75,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/328-casque-ecouteurs",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/333-etui-coque-tunisie",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/111-film-protection-tunisie",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/140-accessoires-telephonie",
+        "type": "Accessoires pour téléphone et tablette"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/17-accessoires-tablettes-tunisie",
+        "type": "Accessoires pour téléphone et tablette"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Smartwatch",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/149-montre-connectee",
+        "type": "Smartwatch"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Pochettes",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": []
+  },
+  {
+    "id": 85,
+    "name": "Casques et écouteurs",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": []
+  },
+  {
+    "id": 86,
+    "name": "Power Banque",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/141-power-bank",
+        "type": "Power Banque"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Chargeurs et Cables",
+    "hasSubCategory": false,
+    "parent": 82,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/309-chargeur",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/310-cable-chargeur",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/351-cable-reseau",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/355-cable-usb",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/359-cable-vga",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/363-cable-hdmi",
+        "type": "Chargeurs et Cables"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/371-cable-alimentation",
+        "type": "Chargeurs et Cables"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Electronique",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/533-multiprises",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/281-accessoires-projection",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/312-onduleur-in-one",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/313-onduleur-on-one",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/323-onduleur-off",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/121-systeme-d-alarme",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/122-camera-de-surveillance",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/124-divers-de-securite",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/271-enregistreur-dvr-hvr-nvr",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/509-coffre-fort",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/54-accessoires-reseaux",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/72-cle-wifi-bluetooth",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/562-coffrets-et-armoires-reseau",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/563-accessoires-armoire",
+        "type": "Electronique"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/372-adaptateurs-convertissers",
+        "type": "Electronique"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Télévisions",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/299-accessoires-tv",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/288-abonnement-iptv",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/289-recepteurs-android-tv-box",
+        "type": "Télévisions"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/315-piles-chargeurs",
+        "type": "Télévisions"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Smart TV",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": []
+  },
+  {
+    "id": 91,
+    "name": "TV Led",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/217-tv-led-tunisie",
+        "type": "TV Led"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "TV 4K",
+    "hasSubCategory": false,
+    "parent": 89,
+    "links": []
+  },
+  {
+    "id": 93,
+    "name": "Audio",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/30-haut-parleur",
+        "type": "Audio"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/263-radio-reveil",
+        "type": "Audio"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/557-barre-de-son",
+        "type": "Audio"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/565-lecteur-cd-dvd",
+        "type": "Audio"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Haut-parleur",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 95,
+    "name": "Home Cinéma",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 96,
+    "name": "Radio",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 97,
+    "name": "Ecouteurs",
+    "hasSubCategory": false,
+    "parent": 93,
+    "links": []
+  },
+  {
+    "id": 98,
+    "name": "Appareils photos",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/108-appareil-photo",
+        "type": "Appareils photos"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/245-accessoires-appareil-photo",
+        "type": "Appareils photos"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Caméras digitales",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 100,
+    "name": "Caméras de surveillance",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": []
+  },
+  {
+    "id": 101,
+    "name": "Vidéo projecteur",
+    "hasSubCategory": false,
+    "parent": 98,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/56-ecran-de-projection",
+        "type": "Vidéo projecteur"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/57-video-projecteur",
+        "type": "Vidéo projecteur"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Jeux vidéos",
+    "hasSubCategory": true,
+    "parent": 88,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/223-ps4-ps5",
+        "type": "playstation"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/407-xbox",
+        "type": "xbox"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/274-nintendo",
+        "type": "nintendo"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Jeux vidéo",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/402-jeux-ps4-tunisie",
+        "type": "Jeux vidéo"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/403-jeux-nintendo",
+        "type": "Jeux vidéo"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/404-jeux-xbox-one",
+        "type": "Jeux vidéo"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/405-jeux-pc-tunisie",
+        "type": "Jeux vidéo"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/523-jeux-ps5",
+        "type": "Jeux vidéo"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Manettes",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/406-manette-ps4-ps5",
+        "type": "Manettes"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/387-manette-jeux-pc",
+        "type": "Manettes"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Accessoires Gaming",
+    "hasSubCategory": false,
+    "parent": 102,
+    "links": [
+      {
+        "url": "https://www.spacenet.tn/categorie/388-ecran-gamer-tunisie",
+        "type": "ecran-gamer"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/219-souris-gamer",
+        "type": "souris-gamer"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/220-tapis-de-souris-gamer",
+        "type": "souris-gamer"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/221-clavier-gamer",
+        "type": "clavier-gamer"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/259-micro-casque-gamer",
+        "type": "casque"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/613-microphone-gaming",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/261-refroidisseur",
+        "type": "refroidisseur"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/262-haut-parleur-gamer-tunisie",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/282-chaise-gaming",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/409-controller-manette-de-jeux",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.tn/categorie/393-boitier",
+        "type": "boitier"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/394-cartes-meres",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/395-disque-dur-ssd-hdd-tunisie",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/396-graveur-et-lecteur",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/398-memoires-ram",
+        "type": "Accessoires Gaming"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/399-processeur",
+        "type": "Accessoires Gaming"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Automobile et Moto",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/481-mobylettes",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/528-scooter",
+        "type": "Automobile et Moto"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/621-trottinette-electrique",
+        "type": "Automobile et Moto"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Entretien des voitures",
+    "hasSubCategory": true,
+    "parent": 106,
+    "links": []
+  },
+  {
+    "id": 108,
+    "name": "Kits de nettoyage",
+    "hasSubCategory": false,
+    "parent": 107,
+    "links": []
+  },
+  {
+    "id": 109,
+    "name": "Outils et équipements",
+    "hasSubCategory": false,
+    "parent": 107,
+    "links": []
+  },
+  {
+    "id": 110,
+    "name": "Accessoires pour Automobile et Moto",
+    "hasSubCategory": true,
+    "parent": 106,
+    "links": []
+  },
+  {
+    "id": 111,
+    "name": "Pièces de rechange auto",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 112,
+    "name": "GPS",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 113,
+    "name": "Pièces de rechange Moto",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 114,
+    "name": "Pneu",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 115,
+    "name": "Vidéo de voiture",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 116,
+    "name": "Sécurité Automobile",
+    "hasSubCategory": false,
+    "parent": 110,
+    "links": []
+  },
+  {
+    "id": 117,
+    "name": "Mode",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/442-montres-femme",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/443-montres-homme",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/447-bracelets-femme",
+        "type": "Mode"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/448-bracelets-homme",
+        "type": "Mode"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Mode homme",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": []
+  },
+  {
+    "id": 119,
+    "name": "Vestes et Mantaux",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 120,
+    "name": "Chemises",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 121,
+    "name": "Capuches",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 122,
+    "name": "T-Shirts",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 123,
+    "name": "Pulls et Gilets",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 124,
+    "name": "Pantalons et Jeans",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 125,
+    "name": "Costumes et Cravates",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 126,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 127,
+    "name": "Accessoires mode homme",
+    "hasSubCategory": false,
+    "parent": 118,
+    "links": []
+  },
+  {
+    "id": 128,
+    "name": "Mode femme",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": []
+  },
+  {
+    "id": 129,
+    "name": "Vestes et Manteaux",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 130,
+    "name": "Pulls, Gilets et Sweat",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 131,
+    "name": "Robes",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 132,
+    "name": "Jupes",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 133,
+    "name": "Combinaisons et Ensembles",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 134,
+    "name": "Chaussettes, Bas et Colons",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 135,
+    "name": "Pantalons et Jeans",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 136,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 137,
+    "name": "Accessoires mode femme",
+    "hasSubCategory": false,
+    "parent": 128,
+    "links": []
+  },
+  {
+    "id": 138,
+    "name": "Bagagerie",
+    "hasSubCategory": true,
+    "parent": 117,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/90-pannier",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/233-trousse",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/235-sac-a-dos",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/508-valises",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/591-sac-a-main",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/609-sac-a-dos",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/610-sac-de-poitrine",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/611-sac-de-sport",
+        "type": "Bagagerie"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/592-portefeuilles",
+        "type": "Bagagerie"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Valises",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": []
+  },
+  {
+    "id": 140,
+    "name": "Sac à Dos",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": []
+  },
+  {
+    "id": 141,
+    "name": "Sac et Pochettes",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/500-enveloppe-pochette",
+        "type": "Sac et Pochettes"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/99-sacoche",
+        "type": "Sac et Pochettes"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 138,
+    "links": []
+  },
+  {
+    "id": 143,
+    "name": "Sport et loisirs",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/243-jouet",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/303-instrument-de-musique",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/605-parasol-et-tente",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/272-tabouret",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/70-glacieres",
+        "type": "Sport et loisirs"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/386-jouet-de-plage",
+        "type": "Sport et loisirs"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Sport et Fitness",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 145,
+    "name": "Appareils de musculation",
+    "hasSubCategory": false,
+    "parent": 144,
+    "links": []
+  },
+  {
+    "id": 146,
+    "name": "Vêtements de Sport",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 147,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 146,
+    "links": []
+  },
+  {
+    "id": 148,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 146,
+    "links": []
+  },
+  {
+    "id": 149,
+    "name": "Chaussures de Sport",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 150,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 149,
+    "links": []
+  },
+  {
+    "id": 151,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 149,
+    "links": []
+  },
+  {
+    "id": 152,
+    "name": "Vélos",
+    "hasSubCategory": true,
+    "parent": 143,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/294-tricycle",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/295-bicyclette-enfant",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/296-bicyclette-adulte",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/596-trottinette",
+        "type": "Vélos"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/564-accessoires-de-velo",
+        "type": "Vélos"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Bicyclette éléctrique",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 154,
+    "name": "Bicyclette VTT",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 155,
+    "name": "Bicyclette Ville",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 156,
+    "name": "Bicyclette BMX",
+    "hasSubCategory": false,
+    "parent": 152,
+    "links": []
+  },
+  {
+    "id": 157,
+    "name": "Compléments alimentaires",
+    "hasSubCategory": false,
+    "parent": 143,
+    "links": []
+  },
+  {
+    "id": 158,
+    "name": "Beauté, Santé et Cheveux",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/425-papier-hygienique",
+        "type": "Beauté, Santé et Cheveux"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/549-chariot-de-menage",
+        "type": "Beauté, Santé et Cheveux"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/593-cuisson-conservation-emballage",
+        "type": "Beauté, Santé et Cheveux"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Maquillage",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/452-ongles",
+        "type": "Maquillage"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/467-pack-beaute",
+        "type": "Maquillage"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Visage",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/454-teint",
+        "type": "Visage"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/453-fard-a-joues",
+        "type": "Visage"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Anti Cernes et Correcteurs",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 162,
+    "name": "Maquillage yeux",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/455-yeux",
+        "type": "Maquillage yeux"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Rouge à lévre",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/451-levres",
+        "type": "Rouge à lévre"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Vernis",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 165,
+    "name": "Pinceaux",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 166,
+    "name": "Accessoires Maquillages",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 167,
+    "name": "Palette de maquillage",
+    "hasSubCategory": false,
+    "parent": 159,
+    "links": []
+  },
+  {
+    "id": 168,
+    "name": "Soins Personnels",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/466-soin-corps",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/516-pack-soin",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/552-protection-solaire",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/617-soin-dentaire",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/627-brosse-soufflante",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/200-pese-personne",
+        "type": "Soins Personnels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/444-hygiene",
+        "type": "Soins Personnels"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Visage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/464-soin-visage",
+        "type": "Visage"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Peau",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 171,
+    "name": "Pieds",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 172,
+    "name": "Cheveux",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/465-soin-cheveux",
+        "type": "Cheveux"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Massage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 174,
+    "name": "Gommage",
+    "hasSubCategory": false,
+    "parent": 168,
+    "links": []
+  },
+  {
+    "id": 175,
+    "name": "Les essentiels",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/632-tondeuses-rasoirs",
+        "type": "Les essentiels"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/626-lisseur",
+        "type": "Les essentiels"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Protection Solaire",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 177,
+    "name": "épilation",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/628-epilateur",
+        "type": "épilation"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Tondeuse",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 179,
+    "name": "Aprés Rasage",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 180,
+    "name": "Shampoing et Gel douche",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 181,
+    "name": "Coloration Cheveux",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 182,
+    "name": "Extensions",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": []
+  },
+  {
+    "id": 183,
+    "name": "Sèche-cheveux et Plaque",
+    "hasSubCategory": false,
+    "parent": 175,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/624-seche-cheveux",
+        "type": "Sèche-cheveux et Plaque"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/625-fer-a-boucler",
+        "type": "Sèche-cheveux et Plaque"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Parfum et Déodorant",
+    "hasSubCategory": true,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/487-coffrets",
+        "type": "Parfum et Déodorant"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/616-deodorant",
+        "type": "Parfum et Déodorant"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Homme",
+    "hasSubCategory": false,
+    "parent": 184,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/485-parfums-hommes",
+        "type": "Homme"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Femme",
+    "hasSubCategory": false,
+    "parent": 184,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/486-parfums-femmes",
+        "type": "Femme"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 158,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/468-pese-personne",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/471-hygiene",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/473-bavettes",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/474-desinfectant",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/521-equipement-medical",
+        "type": "Autres"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/604-complements-alimentaires",
+        "type": "Autres"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Café et Restaurant",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": []
+  },
+  {
+    "id": 189,
+    "name": "Café",
+    "hasSubCategory": true,
+    "parent": 188,
+    "links": []
+  },
+  {
+    "id": 190,
+    "name": "Moulin Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 191,
+    "name": "Grain de Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 192,
+    "name": "Machine café turc",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 193,
+    "name": "Machine Café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 194,
+    "name": "fournitures café",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 195,
+    "name": "Table et Chaise",
+    "hasSubCategory": false,
+    "parent": 189,
+    "links": []
+  },
+  {
+    "id": 196,
+    "name": "Restaurant",
+    "hasSubCategory": false,
+    "parent": 188,
+    "links": []
+  },
+  {
+    "id": 197,
+    "name": "Bébé, Enfant et jouets",
+    "hasSubCategory": true,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/384-parc",
+        "type": "Bébé, Enfant et jouets"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/431-landau",
+        "type": "Bébé, Enfant et jouets"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/445-baignoire",
+        "type": "Bébé, Enfant et jouets"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/635-table-a-langer",
+        "type": "Bébé, Enfant et jouets"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Jouets",
+    "hasSubCategory": true,
+    "parent": 197,
+    "links": []
+  },
+  {
+    "id": 199,
+    "name": "Bicyclettes",
+    "hasSubCategory": false,
+    "parent": 198,
+    "links": []
+  },
+  {
+    "id": 1990,
+    "name": "Autres",
+    "hasSubCategory": false,
+    "parent": 198,
+    "links": []
+  },
+  {
+    "id": 200,
+    "name": "Vêtements",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": []
+  },
+  {
+    "id": 201,
+    "name": "Chaussures",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": []
+  },
+  {
+    "id": 202,
+    "name": "Accessoires enfant",
+    "hasSubCategory": false,
+    "parent": 197,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/380-poussette",
+        "type": "poussette"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/381-chaise-haute",
+        "type": "chaise-haute"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/382-siege-auto",
+        "type": "siege-auto"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/383-trotteur",
+        "type": "trotteur"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Jardin",
+    "hasSubCategory": false,
+    "parent": 0,
+    "links": [
+      {
+        "url": "https://www.spacenet.com/categorie/212-salon-de-jardin-pas-cher-tunisie",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/139-table",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/232-parasols",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/418-kill-insect",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/607-balancoire",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/608-hamac",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/530-tondeuse",
+        "type": "Jardin"
+      },
+      {
+        "url": "https://www.spacenet.com/categorie/547-outils-de-jardinage",
+        "type": "Jardin"
+      }
+    ]
+  }
+]
