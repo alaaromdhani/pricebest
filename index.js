@@ -16,12 +16,27 @@ const { isFunction } = require("util");
 const app = express();
 (async function(){
 
-  let browser = await puppeteer.launch({})
+  let browser = await puppeteer.launch({
+    args: ['--no-sandbox']
+  })
   let page = await browser.newPage()
+    
+  function writetoFile(somString){
+
+    fs.appendFileSync('./product.json', somString, 'utf8', err => {
+        if (err) {
+          console.log(`Error writing file: ${err}`)
+        } else {
+          console.log(`File is written successfully!`)
+        }
+      })
+
+  }
+
   console.log("getting categories ....")
-   MytekFecher.categorieFetcher(fs,(err,data)=>{
-    let products = MytekFecher.productFecher(browser,page,JSON.parse(data))
-   
+   JumiaFechers.categorieFetcher(fs,async(err,data)=>{
+    let products = await JumiaFechers.productFecher(page,JSON.parse(data))
+    writetoFile(JSON.stringify(products))  
   })
 
 
