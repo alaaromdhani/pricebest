@@ -15,15 +15,23 @@ const express = require('express');
 const { isFunction } = require("util");
 const app = express();
 (async function(){
-
+  
+ // writetoFile(JSON.stringify(cookies))
   let browser = await puppeteer.launch({
     args: ['--no-sandbox']
   })
   let page = await browser.newPage()
-    
+  spacenetFechers.categorieFetcher(fs,async (err,data)=>{
+    let categories = JSON.parse(data)
+  let products =     await spacenetFechers.productFecher(page,categories)
+    writetoFile(JSON.parse(products))
+  })
+
+
+ 
   function writetoFile(somString){
 
-    fs.appendFileSync('./product.json', somString, 'utf8', err => {
+    fs.writeFile('./spacenet-products.json', somString, 'utf8', err => {
         if (err) {
           console.log(`Error writing file: ${err}`)
         } else {
@@ -32,12 +40,12 @@ const app = express();
       })
 
   }
-
-  console.log("getting categories ....")
+ 
+  /*console.log("getting categories ....")
    JumiaFechers.categorieFetcher(fs,async(err,data)=>{
     let products = await JumiaFechers.productFecher(page,JSON.parse(data))
     writetoFile(JSON.stringify(products))  
-  })
+  })*/
 
 
   

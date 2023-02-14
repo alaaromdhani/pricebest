@@ -157,7 +157,7 @@ const spacenetFechers = {
         })
     },
     productFecher:async function(page,categories){
-        
+            page.setDefaultNavigationTimeout(60000)
             let all_products = []
             for (let c=0;c<categories.length;c++){
                 console.log("fetching category "+categories[c].name)
@@ -177,25 +177,30 @@ const spacenetFechers = {
                     })    
                     let p = 0
                     let products = []
+                    console.log(productsNumber)
                     console.log("total number of products"+productsNumber)
                     while(products.length<productsNumber){
                     
                         p++
                         console.log("page number = "+p)
-                        await page.goto(categories[c].links[i].url+"/?page="+p)
+                        await page.goto(categories[c].links[i].url+"?page="+p)
                         let productObjects = await page.evaluate(()=>{
                             let items=[];let products=[];let len =document.querySelectorAll('.field-product-item').length/2;  document.querySelectorAll('.field-product-item').forEach((item,index)=>{ if(index<len){ items.push(item) }  }) ;
                             items.forEach(i=>{let imgElement=i.querySelector('.product_image');let referenceElement = i.querySelector('.product-reference') ;let brandElement = i.querySelector(".manufacturer-logo");let nameElement = i.querySelector(".product_name");let priceElement=i.querySelector(".product-price-and-shipping"); if(imgElement && nameElement && priceElement && referenceElement&&brandElement){let price  = parseFloat(priceElement.textContent.trim().split("TND")[0].trim().replace(',','.'));let pBrand = brandElement.getAttribute("alt");let pImage = imgElement.getAttribute("src");let pName=nameElement.textContent ;let referenceCheck = referenceElement.querySelector("span") ; let linkElement=i.querySelector("a"); if(referenceCheck && linkElement){ let link  = linkElement.getAttribute("href"); let reference = referenceCheck.textContent; products.push({name:pName,image:pImage,url:link,id:reference,brand:pBrand,price:price})}  } });
                             return products 
+
     
                         })
+                        
                         if(productObjects.length>0){
+                            
                             productObjects.forEach((p)=>{
                                 let product = new Product(id=p.id,category=categories[c].id,name=p.name,brand=p.brand,image=p.image,link=p.url,price=p.price,website="spacenet",description="",meta="",type=categories[c].links[i].type)
     
                                 all_products.push(product)
                             })
                             products = products.concat(productObjects)
+                        
                         }
                         else{
                             console.log("something went wrong ")
