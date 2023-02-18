@@ -126,7 +126,7 @@ const MytekFecher = {
                         for(let index=0;index<pages;index++){
                             console.log("trying page number"+(index+1)+"....")
                             let newpage = await browser.newPage()
-                            newpage.setDefaultNavigationTimeout(60000)
+                            newpage.setDefaultNavigationTimeout(180000)
                             await visitWebsite(newpage,categories[c].links[i],categories[c].id,index+1)
                         }
                         
